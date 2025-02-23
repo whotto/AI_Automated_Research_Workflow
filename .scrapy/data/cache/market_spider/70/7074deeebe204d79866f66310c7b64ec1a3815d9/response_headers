@@ -1,0 +1,14 @@
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors *.baidu.com *.baidu-int.com
+Content-Type: text/html; charset=utf-8
+Date: Sun, 23 Feb 2025 10:12:05 GMT
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+Server: Apache
+Set-Cookie: SEARCH_MARKET_URL=http%3A//wenku.baidu.com/ndview/browse/view/5873eb6c4731b90d6c85ec3a87c24028915f85b6%3Fbfetype%3Dnew;expires=Sat, 22 Feb 2025 10:12:05 GMT;domain=baidu.com;path=/;
+Set-Cookie: SOGOU_FR_URL=; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: BAIDUID=FCC63E834AF6BA921006DF1497E9B25A:FG=1; expires=Mon, 23-Feb-26 10:12:05 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Set-Cookie: BAIDUID=FCC63E834AF6BA92D1499F57ECE075BD:FG=1; expires=Mon, 23-Feb-26 10:12:05 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Tracecode: 07255174971955468554022318
+Vary: Accept-Encoding
+X-Response-Time: 353.884ms

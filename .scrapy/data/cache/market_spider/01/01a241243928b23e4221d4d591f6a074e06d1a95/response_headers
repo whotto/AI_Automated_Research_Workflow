@@ -1,0 +1,20 @@
+Server: openresty
+Date: Sun, 23 Feb 2025 11:20:31 GMT
+Content-Type: text/html; charset=utf-8
+Location: /dy/article/IO10NHU6051480KF.html
+Expires: Sun, 23 Feb 2025 11:21:31 GMT
+Cache-Control: max-age=5
+Via: wap3g-nginx-online-7b498f6949-crwpm, [172,zone-ha-kaifeng2-cache-13.in.ctcdn.cn], [220,edge-sn-shangluo2-cache-06.in.ctcdn.cn]
+Via: chuanmei-bgp1-dx-new.gy.ntes, [172,zone-ha-kaifeng2-cache-13.in.ctcdn.cn], [220,edge-sn-shangluo2-cache-06.in.ctcdn.cn]
+Sn-Cache: MISS
+X-Envoy-Upstream-Service-Time: 2
+X_Cache: from chuanmei-bgp1-dx-new.gy.ntes
+X-Content-From: netease
+X-Horizon-Weight: 5131
+Age: 0
+Ctl-Cache-Status: MISS from ha-kaifeng2-ca02, MISS from sn-shangluo2-ca03
+Request-Id: 8ee767bb047f3db9966662a00e798906
+Cdn-Source: chinatelecom
+Access-Control-Allow-Credentials: true
+Cdn-Ip: 240e:659:7900::5
+Cdn-User-Ip: 240e:35f:986:601:a880:98db:5c0d:aaf6

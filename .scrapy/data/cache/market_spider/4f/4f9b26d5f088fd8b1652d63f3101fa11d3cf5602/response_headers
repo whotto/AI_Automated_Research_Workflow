@@ -1,0 +1,12 @@
+Server: nginx/1.24.0 (Ubuntu)
+Date: Sat, 22 Feb 2025 16:58:51 GMT
+Content-Type: text/plain
+X-Pathname: /robots.txt
+X-Start-Time: 1740243531931
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Nextjs-Cache: HIT
+Cache-Control: public, immutable, no-transform, max-age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

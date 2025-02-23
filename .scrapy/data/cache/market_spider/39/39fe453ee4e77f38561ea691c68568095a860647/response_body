@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html>
+	<head lang="en">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=0.1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="SiteName" content="中国吕梁">
+		<meta name="SiteDomain" content="www.lvliang.gov.cn">
+		<meta name="SiteIDCode" content="1411000003">
+		<meta name="ColumnName" content="">
+		<meta name="ColumnType" content="">
+                <link rel="icon" href="http://www.lvliang.gov.cn/material/ghicon.png">
+		<meta name="description" content="吕梁政府网站围绕政府信息公开、在线办事、政民互动三大政府网
+站功能定位，对提高政府服务公众的能力和水平，建设吕梁市法制型政府、责任型政府和服务型政府起到
+积极的推动作用。">
+		<meta name="keywords" content="中国吕梁,山西吕梁,吕梁,吕梁政府">
+		<title>
+			年产18万吨镁锭及20万吨镁合金高端产品生产线
+
+		</title>
+		<script type="text/javascript" src="../../../../../images/jquery-3_22.1.1.min.js"></script>
+		<script type="text/javascript" src="../../../js/ABT.js" id="ABT"></script>
+		<link href="../../../../../images/css_16.css" type="text/css" rel="stylesheet">
+
+		<style>
+			.top .sousuo .input {
+				margin-bottom: 19px;
+			}
+
+			.bjys {
+				background-color: #EEEEEE;
+				padding-bottom: 20px;
+			}
+
+			.con1 {
+				width: 1241px;
+				background-color: white;
+				padding-top: 15px;
+				margin: 0 auto;
+			}
+
+			.con1 .bt {
+				width: 1226px;
+				height: 36px;
+				line-height: 36px;
+				padding-left: 15px;
+				background-color: #F5F8FF;
+			}
+
+			.con1 .bt p {
+				font-family: "\5FAE\8F6F\96C5\9ED1", sans-self;
+				font-size: 16px;
+			}
+
+			.con1 .bt p a {
+				color: #363636
+			}
+
+			.con1 .center {
+				position: relative;
+				padding: 18px 15px;
+			}
+			.conbb {
+				margin: 0 auto;
+				width: 100%;
+				background-color: #EEEEEE;
+			}
+
+			.content {
+				margin: 0 auto;
+				width: 1241px;
+				height: auto;
+				position: relative;
+				padding-top: 10px;
+				padding-bottom: 18px;
+			}
+
+			.hb {
+				font-size: 14px;
+				color: #999;
+				line-height: 35px;
+				border: 1px solid #ccc;
+				width: 1241px;
+				height: 35px;
+				margin-bottom: 10px;
+				background-color: white;
+			}
+
+			.hb p a {
+				color: #999
+			}
+
+			.hb p span {
+				color: #363636
+			}
+
+			.con {
+				border: 1px solid #ccc;
+				padding: 20px 15px;
+				background-color: white;
+			}
+
+			.con .t {
+				text-align: center;
+			}
+
+			.con .t h2 {
+				font-size: 34px;
+				margin-top: 23px;
+				margin-bottom: 25px;
+			}
+
+			.con .t p {
+				font-size: 24px;
+				font-family: "楷体";
+				line-height: 49px;
+			}
+
+			.con .t .x {
+				color: #a9a9a9;
+				margin: 0;
+				font-size: 14px;
+				text-align: center;
+				font-family: "Microsoft YaHei";
+				padding-bottom: 22px;
+				border-bottom: 1px dashed #efefef
+			}
+
+			.con .n {
+				padding: 20px 20px 60px
+			}
+
+			.con .n p {
+				color: #333;
+				font-size: 16px;
+				font-family: "\5B8B\4F53", "\5FAE\8F6F\96C5\9ED1", sans-self;
+				line-height: 210%
+			}
+
+			.con .qq {
+				border-top: 1px dashed #efefef;
+				height: 50px;
+				padding-top: 14px;
+				position: relative;
+				color: white;
+				cursor: pointer
+			}
+
+			.con .qq span {
+				font-size: 31px;
+				margin-left: 10px;
+			}
+
+			.con .qq span a {
+				color: #3795db;
+			}
+
+			.con .qq span a:hover {
+				color: #363636
+			}
+
+			.con .qq p {
+				right: 20px;
+				top: 14px;
+				width: 106px;
+				height: 34px;
+				line-height: 31px;
+				background-color: #2490cc;
+				border-radius: 9px;
+				text-align: center;
+				position: absolute;
+				padding-left: 17px;
+			}
+
+			.qq p:before {
+				content: '\e6a6';
+				position: absolute;
+				left: 13px;
+				top: 2px;
+				font-family: iconfont;
+				font-size: 20px;
+			}
+
+			.con .qq p:hover {
+				background-color: #363636
+			}
+
+			.con .xgtj {
+				border-top: 1px dashed #efefef
+			}
+
+			.con .xgtj p {
+				color: #00528c;
+				height: 40px;
+				line-height: 58px;
+				font-size: 16px;
+			}
+
+			.w {
+				position: fixed
+			}
+
+			.weixin {
+				position: absolute;
+				width: 92px;
+				height: 329px;
+				background-color: white;
+				right: -1385px;
+				top: 0;
+				padding: 12px;
+			}
+
+			.weixin ul {
+				border: 1px solid #f2f2f2
+			}
+
+			.weixin ul li {
+				border-bottom: 1px solid #f2f2f2;
+				cursor: pointer
+			}
+
+			.weixin ul li:nth-last-child(1) {
+				border: none
+			}
+
+			.weixin ul li img {
+				margin-left: 25px;
+				margin-top: 6px;
+			}
+
+			.weixin ul li p {
+				text-align: center;
+				font-size: 14px;
+				color: #6F8ABF;
+				line-height: 33px
+			}
+
+			.weixin ul li p a {
+				color: #6F8ABF
+			}
+
+			.weixin ul li:hover p a {
+				color: white
+			}
+
+			.weixin ul li:hover {
+				background-color: #0050BF
+			}
+
+			.weixin ul li svg {
+				width: 48px;
+				margin-left: 17px;
+				height: 48px;
+				margin-top: 8px;
+				fill: #456ed1;
+			}
+
+			.weixin ul li:hover .icon {
+				fill: #fff;
+			}
+
+			.top .sousuo .dh ul li h6 a {
+				color: #000;
+			}
+
+			.top .sousuo .dh ul li:hover h6 a {
+				color: #5F95CC;
+			}
+
+
+			.con .center .left .fldh .fldh_z .fldh_d ul li a {
+				color: #363636;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				overflow: hidden;
+				display: inline-block;
+				width: 150px
+			}
+
+			.content .con .banshifuwu .banshi_z .qiye .r ul li a:hover {
+				color: #005EA7;
+				text-decoration: underline
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li {
+				float: left;
+				width: 190px;
+				height: 41px;
+				line-height: 41px;
+				text-align: center;
+				background-color: #EEEEEE;
+				color: white;
+				cursor: pointer
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li a {
+				color: white;
+				font-size: 18px;
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li a {
+				color: #363636
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li.ll {
+				background-color: #015293;
+				color: #363636;
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li a.ll {
+				color: white
+			}
+
+			.content .con .zmhd .zmhd_z .sz .xiexin {
+				height: 139px;
+			}
+
+			.content .con .zmhd .zmhd_z .zx .dianji ul li.ll {
+				background-color: #015293;
+				color: #363636;
+			}
+
+
+			.center.weixin ul li:hover {
+				background-color: #0050BF
+			}
+
+			.center.weixin ul li svg {
+				width: 48px;
+				margin-left: 17px;
+				height: 48px;
+				margin-top: 8px;
+				fill: #4C6DC9;
+			}
+
+			.center.weixin ul li:hover .icon {
+				fill: #fff;
+			}
+
+			.center.weixin ul li:hover p a {
+				color: white
+			}
+
+			.dh ul li svg {
+				width: 30px;
+				margin-left: 0;
+				fill: #000;
+				height: 43px;
+			}
+
+			.dh ul li:hover a svg {
+				fill: #2f8bd8;
+			}
+
+			.dh ul li h6 a {
+				color: #000000
+			}
+
+			.dh ul li:hover h6 a {
+				color: #2f8bd8
+			}
+
+			@font-face {
+				font-family: "iconfont";
+				src: url('images/iconfont.woff'), url('images/iconfont.eot'), url('images/iconfont.svg'), url('images/iconfont.ttf');
+			}
+
+			@font-face {
+				font-family: "xujinglei";
+				src: url('images/xujinglei.ttf'), url('images/xujinglei.eot');
+			}
+
+			body {
+				font-family: iconfont;
+			}
+
+			.top .sousuo .dh ul li {
+				float: left;
+				height: 61px;
+				width: 115px;
+			}
+			/* 二维码 */
+			.affairs-detail-qcode{
+				margin: 0 auto;
+				text-align: center;
+				margin-top: 20px;
+				font-size: 12px;
+			}
+			.affairs-detail-qcode dt{
+				height: 30px;
+				line-height: 30px;
+			}
+			/* 二维码 */
+		</style>
+	</head>
+	<body>
+		<!--/*头部开始*/-->
+
+		<div id="container">
+
+
+			<!DOCTYPE html>
+<html>
+
+<style>
+    .top .sousuo .dh ul li h6 a{color: #000;}
+    .top .sousuo .dh ul li:hover h6 a{color: #5F95CC;}
+    .con .center .left .fldh .fldh_z .fldh_d ul li a{ color: #363636; text-overflow: ellipsis; white-space: nowrap;overflow: hidden; display: inline-block; width: 150px}
+    .content .con .banshifuwu .banshi_z .qiye .r ul li a:hover{color: #005EA7;text-decoration: underline}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li{float: left;width: 190px;height: 41px;line-height: 41px;text-align: center;background-color: #EEEEEE;color: white;cursor: pointer}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li a{color: white;font-size: 18px;}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li a{color: #363636}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li.ll{   background-color: #015293;color: #363636;}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li a.ll{  color: white}
+    .content .con .zmhd .zmhd_z .sz .xiexin { height: 139px;}
+    .content .con .zmhd .zmhd_z .zx .dianji ul li.ll{   background-color: #015293;color: #363636;}
+    .dh ul li a svg{width: 30px !important;height:35px !important; }
+    .dh ul li:hover svg{fill: #2f8bd8}
+    .dh ul li h6 a{color: #000000；font-size:18px;}
+    .dh ul li:hover h6 a{color:#2f8bd8 }
+    .top .sousuo .dh ul li {float: left;height: 61px;width: 115px;text-align: center;cursor: pointer;}
+
+</style>
+
+<body>
+<!--/*头部开始*/-->
+<div class="top">
+    <div class="top_z">
+        <p style="float:left">
+
+       <span style='position: relative;'>
+        <a style='position: absolute;top: -12px;'><img src='../../../../../szdt/images/P020170715484026578480.png' /></a>
+       <span><a href="http://www.gov.cn" target="_blank"  style="color:#222;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国政府网</a></span>
+       </span>
+
+            <span style='position: relative;' >
+       <a  style='position: absolute;top: -12px;'><img src='../../../../../szdt/images/P020170715484026578480.png' /></a>
+       <span><a href="http://www.shanxi.gov.cn/" target="_blank"  style="color:#222;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;山西省人民政府网</a></span></span>
+        </p>
+        <p> <a style="color: #000" href="Javascript:;" alt="切换繁体版网站" id="StranLink" name="StranLink">切换到繁体版</a>&nbsp; <a style="color: #000" href="javascript:ABT.show()" title="无障碍浏览">无障碍浏览</a></p>
+    </div>
+    <div class="logo">
+        <a href="../../../../../" target="_self"><img src="../../../../../szdt/images/P020170715773240475971.png" /></a>
+    </div>
+    <div class="sousuo">
+        <div class="input" style="margin-bottom:44px;" >
+
+            <script>
+                function doSearch(){
+                    var searchstr=document.getElementById('textfield').value;
+                    if(searchstr.length<=0){
+                        alert('请输入关键词');
+                    }else{
+                        window.open('http://www.lvliang.gov.cn/search-web/#/Door?siteTag=1&siteid=5&keywords='+searchstr);
+                    }
+                }
+            </script>
+            <form class="search" id="top-search-form" name="searchform" target="_blank">
+<!--                <input type="hidden" name="channelid" class="seabar fl" value="263342" />-->
+                <input type="text" id="textfield" class="search1" name="searchword" size="14" placeholder="请输入关键字" onkeydown="if(event.keyCode==13){document.getElementById('top-search-btn').click();return false;};" style="width: 309px; height: 39px;line-height:39px;box-sizing: content-box;background-color: #FFFFFF; right: 0; border: 1px solid #3C3737;padding:1px 2px 1px 10px;color: #515151;font-size: 18px;vertical-align: middle;margin-bottom: 4px;" />
+<!--                <input type="hidden" name="perpage" value="" />-->
+<!--                <input type="hidden" name="templet" value="" />-->
+<!--                <input type="hidden" name="token" value="0.1450753920719.14" />-->
+                <input type="button" id="top-search-btn" onclick="doSearch()" style="width: 59px; height: 43px; background-color: #1A6AA9;
+    border: none;color: white; vertical-align: middle;margin-right: -11px;font-size: 20px; margin-bottom: 4px;position: absolute; right: 12px;border:none;top:0;cursor: pointer;" value="搜索" class="search2" />
+            </form>
+        </div>
+        <div class="dh">
+            <ul style="width: 656px;">
+                <li style="width:114px">
+                    <a href="../../../../../" target="_self"><svg  t="1496735104178" class="icon" style="width: 30px;height:35px; " viewBox="0 0 1024 1024" version="1.1"  p-id="2404"><defs><style type="text/css"></style></defs><path d="M954.058556 493.157863c-43.23264-44.004213-422.432055-429.957449-423.904593-431.429986-4.974291-4.975315-12.541641-7.496741-22.49227-7.496741-8.815783 0-15.785521 2.49789-20.711717 7.424086L66.122465 497.179456l0 8.266267c0 18.583241 6.119371 36.461423 17.232476 50.341548 10.562567 13.193487 24.000624 21.069875 35.945677 21.069875l65.450664 0 0 314.966485c0 55.979966 38.562271 75.842339 71.585385 75.842339 2.1295 0 14.32117-0.169869 90.969874-0.169869s70.608128-75.43711 70.608128-75.43711L417.91467 646.39592c0-9.287527 7.496741-16.362666 11.249205-16.362666l48.461735 0 0-40.904619-48.462758 0c-27.782763 0-52.154847 26.759457-52.154847 57.267285l0 245.477854c0 0-1.861394 34.718733-29.751604 34.718733-11.766998 0-89.919962 0.169869-90.920756 0.169869-30.67872 0-30.67872-26.297946-30.67872-34.938744L225.656925 535.952528 121.464911 535.952528c-3.078105-1.87879-11.418051-9.230222-13.795191-22.902616L508.582669 98.130971c52.142567 53.054333 362.372168 368.81081 410.150334 417.437298-0.699941 9.211802-2.52859 13.670348-3.717671 15.657608-0.86367 1.438769-1.606591 2.684132-6.225795 2.684132L804.540218 533.910009l-1.075495 355.077018c-2.52245 8.207939-13.405311 37.604456-39.892569 37.604456 0 0-40.298821 0-75.330686 0s-39.161928-21.097504-39.149649-34.718733c0.079818-84.74408 0.188288-237.419318-0.065492-246.077511-0.245593-8.330736-3.206018-21.429055-10.780531-33.213449-9.723455-15.123442-24.049742-23.454178-40.342824-23.454178l-55.19509 0 0 40.904619 55.19509 0c5.418406 0 10.094916 12.181437 10.235109 16.96437 0.222057 7.557116 0.138146 149.410891 0.048095 244.87615-0.020466 21.3871 0.603751 75.622328 80.055291 75.622328 51.746548 0 75.330686 0 75.330686 0 26.396183 0 48.812729-12.697183 64.826448-36.719296 10.906397-16.35448 14.9679-32.391734 15.395642-34.167171l1.528819-321.79603 63.466474 0c17.935488 0 32.611745-8.020674 41.328267-22.584368 6.597255-11.024078 9.80532-25.65838 9.80532-44.737924l0-8.366551L954.058556 493.157863z" p-id="2405"></path></svg></a>
+                    <h6><a href="../../../../../" target="_self">首页</a></h6>
+                </li>
+                <li style="width:120px">
+                    <a href="../../../../" target="_self"><svg t="1496735284306" class="icon" style="width: 30px;height:35px;" viewBox="0 0 1024 1024" version="1.1" p-id="18895"><defs><style type="text/css"></style></defs><path d="M512 1008.64c-131.072 0-254.976-51.2-348.16-142.336-12.288-12.288-12.288-31.744 0-43.008 12.288-12.288 31.744-12.288 43.008 0 81.92 80.896 190.464 124.928 305.152 124.928 239.616 0 435.2-195.584 435.2-435.2S751.616 76.8 512 76.8 76.8 272.384 76.8 512c0 17.408-13.312 30.72-30.72 30.72s-30.72-13.312-30.72-30.72C15.36 238.592 238.592 15.36 512 15.36S1008.64 238.592 1008.64 512 785.408 1008.64 512 1008.64z" p-id="18896"></path><path d="M746.496 490.496 588.8 332.8c-12.288-12.288-31.744-12.288-43.008 0-12.288 12.288-12.288 31.744 0 43.008L650.24 481.28 299.008 481.28c-17.408 0-30.72 13.312-30.72 30.72 0 17.408 13.312 30.72 30.72 30.72l351.232 0L545.792 648.192c-12.288 12.288-12.288 31.744 0 43.008 6.144 6.144 14.336 9.216 21.504 9.216s15.36-3.072 21.504-9.216l157.696-157.696c6.144-6.144 9.216-13.312 9.216-21.504S752.64 495.616 746.496 490.496z" p-id="18897"></path></svg></a>
+                    <h6><a href="../../../../" target="_self">走进吕梁</a></h6>
+                </li>
+                <li style="width:140px">
+                    <a href="../../../../../zfxxgk/" target="_self"> <svg t="1496735310133" class="icon" style="width: 30px;height:35px;" viewBox="0 0 1024 1024" version="1.1" p-id="20243"><defs><style type="text/css"></style></defs><path d="M727.009424 254.638491c-1.198292 0-2.37407 0.090051-3.526313 0.255827L286.092365 254.894318c-1.151219-0.165776-2.328022-0.255827-3.526313-0.255827-13.563924 0-24.559349 10.995425-24.559349 24.559349s10.995425 24.559349 24.559349 24.559349l0 0.255827 444.443371 0 0-0.255827c13.564947 0 24.559349-10.995425 24.559349-24.559349S740.574371 254.638491 727.009424 254.638491z" p-id="20244"></path><path d="M727.009424 445.541379c-1.198292 0-2.37407 0.090051-3.526313 0.255827L286.092365 445.797205c-1.151219-0.165776-2.328022-0.255827-3.526313-0.255827-13.563924 0-24.559349 10.995425-24.559349 24.559349s10.995425 24.559349 24.559349 24.559349l0 0.255827 444.443371 0 0-0.255827c13.564947 0 24.559349-10.995425 24.559349-24.559349S740.574371 445.541379 727.009424 445.541379z" p-id="20245"></path><path d="M493.706867 631.118981c-1.198292 0-2.37407 0.090051-3.526313 0.255827L285.528524 631.374808c-1.151219-0.165776-2.328022-0.255827-3.526313-0.255827-13.563924 0-24.559349 10.995425-24.559349 24.559349s10.995425 24.559349 24.559349 24.559349l0 0.255827 211.704656 0 0-0.255827c13.564947 0 24.559349-10.995425 24.559349-24.559349S507.271814 631.118981 493.706867 631.118981z" p-id="20246"></path><path d="M875.152439 158.14174c0-38.099736-30.995945-69.097728-69.097728-69.097728L203.907575 89.044012c-38.101783 0-69.098751 30.997991-69.098751 69.097728l0 722.662931c0 38.098713 30.997991 69.097728 69.098751 69.097728l396.931265 0c6.624884 0.277316 13.338796-2.085498 18.396999-7.142677l0.181125 0.181125 248.476141-248.477164-0.181125-0.181125c4.771677-4.771677 7.166213-11.019984 7.188726-17.273409l0.251733 0L875.152439 378.799302l0.053212 0 0-49.118698L875.152439 329.680605 875.152439 158.14174zM601.997222 890.89447 601.997222 687.431521l203.461925 0L601.997222 890.89447zM827.179844 639.279848c-1.879813-0.460488-3.843538-0.710175-5.864568-0.710175l0-0.255827L577.182047 638.313847c-13.563924 0-24.559349 10.994402-24.559349 24.559349 0 0.034792 0.004093 0.068562 0.004093 0.104377 0 0.051165-0.004093 0.101307-0.004093 0.151449 0 1.198292 0.090051 2.37407 0.255827 3.526313l0 234.250138L193.674513 900.905474c-5.441942 0-9.870812-4.426823-9.870812-9.870812L183.803701 147.908678c0-5.442966 4.427846-9.870812 9.870812-9.870812l623.636566 0c5.442966 0 9.869788 4.428869 9.869788 9.870812" p-id="20247"></path></svg></a>
+                    <h6><a href="../../../../../zfxxgk/" target="_self">政府信息公开</a></h6>
+                </li>
+
+                <li style="width:120px">
+                    <a href="http://ll.sxzwfw.gov.cn/icity/public/index" target="_self"><svg t="1496735366370" class="icon" style="width: 30px;height:35px;" viewBox="0 0 1024 1024" version="1.1" p-id="22062"><defs><style type="text/css"></style></defs><path d="M109.696 585.28c-20.16 0-36.544-16.384-36.544-36.608L73.152 365.696c0-20.16 16.384-36.544 36.544-36.544s36.544 16.384 36.544 36.544L146.24 548.48C146.304 568.896 129.92 585.28 109.696 585.28L109.696 585.28zM914.304 950.72 182.848 950.72c-60.48 0-109.696-48.896-109.696-108.8l0-73.984c0-20.032 16.384-36.416 36.544-36.416s36.544 16.384 36.544 36.416l0 73.984c0 19.776 16.448 35.776 36.544 35.776l731.456 0c20.096 0 36.48-16.384 36.48-36.416L950.72 109.696c0-20.16-16.384-36.608-36.48-36.608L182.848 73.088c-21.184 0-36.544 11.584-36.544 19.456l0 53.696c0 20.16-16.384 36.544-36.544 36.544s-36.608-16.32-36.608-36.48L73.152 92.608C73.152 41.536 122.368 0 182.848 0l731.456 0C974.72 0 1024 49.216 1024 109.696l0 731.456C1024 901.568 974.72 950.72 914.304 950.72L914.304 950.72zM146.304 292.544 36.544 292.544C16.384 292.544 0 276.16 0 256c0-20.224 16.384-36.608 36.544-36.608l109.696 0C166.4 219.392 182.784 235.776 182.784 256 182.848 276.16 166.464 292.544 146.304 292.544L146.304 292.544zM146.304 694.72 36.544 694.72C16.384 694.72 0 678.656 0 658.304s16.384-36.608 36.544-36.608l109.696 0c20.16 0 36.544 16.384 36.544 36.608C182.784 678.528 166.464 694.72 146.304 694.72L146.304 694.72zM757.376 238.08l-472.32 0 0 80 472.32 0L757.376 238.08zM842.752 439.04 285.056 439.04l0 84.992 557.696 0L842.752 439.04zM842.752 633.6 285.056 633.6l0 84.992 557.696 0L842.752 633.6z" p-id="22063"></path></svg></a>
+                    <h6><a href="http://ll.sxzwfw.gov.cn/icity/public/index" target="_self">办事服务</a></h6>
+
+                </li>
+                <li style='display:none;'>
+                    <a href="../../../../../zfxxgk/ggsj/" target="_self"><svg t="1497494511680" class="icon" style="width: 30px;height:35px;" viewBox="0 0 1024 1024" version="1.1" p-id="1002"><defs><style type="text/css"></style></defs><path d="M217.399652 845.913043a22.127304 22.127304 0 0 1-14.692174-5.609739A467.968 467.968 0 0 1 44.477217 489.73913C44.521739 231.958261 254.21913 22.26087 512 22.26087S979.478261 231.958261 979.478261 489.73913a467.923478 467.923478 0 0 1-158.052174 350.475131 22.26087 22.26087 0 1 1-29.517913-33.346783A423.401739 423.401739 0 0 0 934.956522 489.73913c0-233.20487-189.70713-422.956522-422.956522-422.956521-233.20487 0-422.956522 189.751652-422.956522 422.956521a423.357217 423.357217 0 0 0 143.181913 317.17287 22.26087 22.26087 0 0 1-14.781217 38.956522" fill="" p-id="1003"></path><path d="M300.032 660.925217a22.26087 22.26087 0 0 1-17.363478-8.281043 295.17913 295.17913 0 0 1-65.001739-184.587131A294.689391 294.689391 0 0 1 512 173.723826a294.689391 294.689391 0 0 1 294.333217 294.333217 295.17913 295.17913 0 0 1-64.690087 184.141914 22.26087 22.26087 0 1 1-34.682434-27.870609 247.273739 247.273739 0 0 0 54.850782-156.271305A250.12313 250.12313 0 0 0 512 218.245565a250.078609 250.078609 0 0 0-249.811478 249.811478c0 57.700174 19.099826 111.88313 55.206956 156.627479a22.305391 22.305391 0 0 1-17.363478 36.240695" fill="" p-id="1004"></path><path d="M640.489739 626.821565c12.777739 157.562435-73.906087 351.276522-73.906087 351.276522s-22.038261 10.596174-54.672695 10.596174c-32.589913 0-55.162435-10.596174-55.162435-10.596174s-86.728348-193.714087-73.995131-351.276522c0 0 20.48-66.29287 129.914435-66.292869s127.821913 66.29287 127.821913 66.292869M609.502609 429.634783a98.081391 98.081391 0 0 1-97.903305 98.214956A98.03687 98.03687 0 0 1 413.740522 429.634783c0-54.182957 43.853913-98.170435 97.858782-98.170435 54.093913 0 97.947826 43.987478 97.947826 98.170435" fill="" p-id="1005"></path></svg></a>
+                    <h6><a href="../../../../../zfxxgk/ggsj/" target="_self">公共数据</a></h6>
+                </li>
+                <li  style="width:120px">
+                    <a href="../../../../../zmhd/" target="_self">   <svg t="1496735380311" class="icon" style="width: 30px;height:35px;" viewBox="0 0 1024 1024" version="1.1" p-id="22746"><defs><style type="text/css"></style></defs><path d="M207.872 451.072c0-33.792 27.136-60.928 60.928-60.928 33.792 0 60.928 27.136 60.928 60.928 0 33.792-27.136 60.928-60.928 60.928-33.28 0-60.928-27.136-60.928-60.928z m243.2 0c0-33.792 27.136-60.928 60.928-60.928 33.792 0 60.928 27.136 60.928 60.928 0 33.792-27.136 60.928-60.928 60.928-33.792 0-60.928-27.136-60.928-60.928z m427.52 425.472h-62.464v-60.928h69.12c29.184 0 52.736-27.136 52.736-60.928V151.04c0-33.792-23.552-65.024-52.736-65.024H139.264c-29.184 0-52.736 31.232-52.736 65.024v603.648c0 33.792 23.552 60.928 52.736 60.928H613.376v0.512c6.656 1.024 13.824 4.096 18.432 9.216l109.056 122.368c11.264 12.288 10.24 31.744-2.56 42.496-12.288 11.264-31.744 10.24-42.496-2.56l-99.84-111.616H146.432C80.384 876.544 25.6 817.664 25.6 744.96V157.184C25.6 84.48 80.384 25.6 146.432 25.6h732.16C944.64 25.6 998.4 84.48 998.4 157.184v587.776c0 72.704-53.76 131.584-119.808 131.584z m-184.32-425.472c0-33.792 27.136-60.928 60.928-60.928 33.792 0 60.928 27.136 60.928 60.928 0 33.792-27.136 60.928-60.928 60.928-33.792 0-60.928-27.136-60.928-60.928z" fill="" p-id="22747"></path></svg></a>
+                    <h6><a href="../../../../../zmhd/" target="_self">政民互动</a></h6>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="xian" ></div>
+
+<!--/*头部结束*/-->
+</body>
+
+</html>
+
+<!--/*头部结束*/-->
+
+
+			<div class="bjys">
+				<div class="con1">
+					<div class="bt">
+						<p>
+							<a href="../../../../../" target="_blank" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&nbsp;<a href="../../../../" target="_blank" title="走进吕梁" class="CurrChnlCls">走进吕梁</a>&nbsp;&gt;&nbsp;<a href="../../../" target="_blank" title="崛起吕梁" class="CurrChnlCls">崛起吕梁</a>&nbsp;&gt;&nbsp;<a href="../../" target="_blank" title="招商项目" class="CurrChnlCls">招商项目</a>&nbsp;&gt;&nbsp;<a href="../" target="_blank" title="新材料产业" class="CurrChnlCls">新材料产业</a>
+						</p>
+					</div>
+					<div class="center">
+
+						<!-- 微信-->
+						<div class="w">
+            <div class="weixin" style="height: 329px;">
+                <ul>
+                    <li><a href="../../../../../wbfbt/" target="_blank"><svg t="1496665787102" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" p-id="1646"><defs><style type="text/css"></style></defs><path d="M727.082078 504.818437c-34.771945-6.743588-17.872043-25.458835-17.872043-25.458835s34.024931-56.081273-6.733355-96.849792c-50.510394-50.495044-173.252903 6.424316-173.252903 6.424316-46.873564 14.546298-34.453696-6.639211-27.823696-42.694381 0-42.478464-14.551414-114.372887-139.429563-71.90875-124.758422 42.694381-231.874021 192.282305-231.874021 192.282305-74.487481 99.398848-64.62588 176.22663-64.62588 176.22663 18.605753 169.597653 198.817138 216.151945 338.984505 227.169883 147.46354 11.568477 346.486362-50.828642 406.841985-179.014116C871.637382 562.595328 761.97375 511.776919 727.082078 504.818437L727.082078 504.818437zM415.368684 822.183552c-146.392138 6.839779-264.736477-66.561975-264.736477-164.254971 0-97.792257 118.344339-176.221514 264.736477-182.970218 146.490376-6.743588 265.064958 53.607942 265.064958 151.20577C680.432619 723.842803 561.85906 815.534108 415.368684 822.183552L415.368684 822.183552zM386.162502 539.376511c-147.240459 17.2335-130.225947 155.146523-130.225947 155.146523s-1.50733 43.665499 39.476083 65.908082c86.155219 46.663786 174.859493 18.411325 219.687468-39.460734C559.938314 663.077857 533.616832 522.261715 386.162502 539.376511L386.162502 539.376511zM349.025697 732.942041c-27.495214 3.216251-49.641607-12.625552-49.641607-35.631522 0-22.89443 19.678178-46.873564 47.182602-49.747008 31.579229-3.00238 52.126194 15.189957 52.126194 38.193881C398.691863 708.653869 376.410394 729.828121 349.025697 732.942041L349.025697 732.942041zM435.813319 659.002029c-9.307993 6.958482-20.770046 5.996574-25.683962-2.349511-5.131881-8.140401-3.208065-21.188578 6.209422-28.043706 10.914584-8.119935 22.257933-5.785773 27.170826 2.364861C448.443987 639.308501 444.917674 651.828652 435.813319 659.002029L435.813319 659.002029zM798.776957 445.104427c11.867282 0 21.951965-8.773827 23.647583-20.221554 0.214894-0.856507 0.319272-1.600451 0.319272-2.567475C840.726372 260.643252 690.264545 288.466947 690.264545 288.466947c-13.358239 0-24.068162 10.804067-24.068162 24.283056 0 13.269211 10.709923 24.072255 24.068162 24.072255 108.073414-23.852244 84.23038 84.216054 84.23038 84.216054C774.488785 434.404738 785.382902 445.104427 798.776957 445.104427L798.776957 445.104427zM781.237489 157.733441c-52.015677-12.186554-105.519242 0.902556-120.508631 3.776-1.162476 0.109494-2.245134 2.498914-3.312442 2.713808-0.523933 0.104377-0.843204 1.287319-0.843204 1.287319-14.774495 4.180206-25.583678 18.183128-25.583678 34.349319 0 19.259646 15.618723 35.266202 35.092239 35.266202 0 0 18.945491-2.459005 31.783891-7.483438 12.729929-5.126764 120.484072-3.776 174.001963 86.095867 29.200042 65.589834 12.839423 109.510136 10.793834 116.563786 0 0-6.943133 17.054421-6.943133 33.82948 0 19.36914 15.622816 26.366508 34.970466 26.366508 16.176424 0 29.764907-7.167237 33.730219-34.732036l0.214894 0C1002.087433 262.817778 874.327654 179.451068 781.237489 157.733441L781.237489 157.733441zM781.237489 157.733441" p-id="1647"></path></svg></a><p><a href="../../../../../wbfbt/" target="_blank">微博发布厅</a></p></li>
+                    <li><a href="../../../../../zwwxq/" target="_blank"><svg t="1496665758069" class="icon" style="" viewBox="0 0 1024 1024" version="1.1"  p-id="995"><defs><style type="text/css"></style></defs><path d="M946.8416 855.7312C994.8672 808.1152 1024 745.6 1024 677.0176c0-119.1936-88.2432-220.3904-210.688-256.2304C806.016 229.7344 626.7904 76.8 406.8096 76.8 182.1184 76.8 0 236.2368 0 432.9216c0 90.2912 38.4 172.7232 101.7088 235.52 19.8144 19.6608-3.3792 73.4464-31.872 117.8624 48.1536-14.4384 99.5072-23.8592 144.4864-23.8592 21.0432 0 40.6784 2.0224 57.9328 6.656 42.1376 12.9024 87.3984 19.9168 134.5536 19.9168 9.1392 0 18.2272-0.3328 27.264-0.7936 48.384 93.696 156.16 158.976 281.344 158.976 35.7888 0 70.1184-5.3504 102.0672-15.1552 13.0816-3.4304 28.0064-4.9664 43.9808-4.9664 34.0736 0 73.0624 7.0912 109.568 18.048C949.4528 911.4368 931.7888 870.6816 946.8416 855.7312L946.8416 855.7312zM406.8096 723.968c-40.6272 0-80.4352-5.8624-118.2464-17.5104l-1.0496-0.3072-1.0496-0.2816c-21.2736-5.632-45.5168-8.4736-72.1408-8.4736-15.3088 0-30.5664 0.896-45.5424 2.432 3.1744-38.0928-10.2656-63.1552-26.624-79.4368-26.3936-26.1376-46.8992-55.6288-60.9536-87.4752-14.08-32-21.248-65.664-21.248-100.0192 0-75.1104 34.3808-146.5344 96.8448-201.1904 31.8976-27.9296 69.248-49.9456 111.0272-65.3824 43.904-16.2816 90.6752-24.5248 138.9824-24.5248 48.3328 0 95.0784 8.2432 139.008 24.5248 41.7536 15.4624 79.1552 37.4528 111.0016 65.3824 55.7568 48.7424 89.1392 110.9248 95.6416 177.0752l0 0c-12.16-1.28-24.4992-1.92-37.0432-1.92-170.4192 0-308.608 120.9344-308.608 270.1312 0 16.0256 1.5872 31.6672 4.6336 46.9248l0 0C409.8816 723.9424 408.3456 723.968 406.8096 723.968L406.8096 723.968zM906.3936 807.7568c-9.6768 9.5744-22.4512 27.2384-24.7808 54.9376-6.6816-0.4864-13.4144-0.6656-20.1728-0.6656-21.3504 0-40.96 2.3296-58.1888 6.912l-1.024 0.256-1.024 0.3328c-27.4432 8.4224-56.32 12.6464-85.8112 12.6464-35.0464 0-68.9408-5.9136-100.7872-17.6896-30.08-11.1872-56.9344-26.9568-79.8208-46.976-43.904-38.4256-68.0448-88.2688-68.0448-140.416 0-52.0448 24.1408-101.9392 68.0448-140.3648 22.912-20.0448 49.7408-35.8144 79.8208-46.9248 31.8208-11.776 65.7152-17.7408 100.7872-17.7408 35.072 0 68.9664 5.9648 100.8128 17.7408 30.0544 11.1104 56.9344 26.88 79.7952 46.9248 43.8784 38.4256 68.0448 88.32 68.0448 140.3648 0 23.7568-4.9152 46.976-14.6688 69.1456C939.4944 768.5376 925.056 789.2224 906.3936 807.7568L906.3936 807.7568zM228.2752 363.2896c0.3328-37.5552 21.9648-67.8144 48.6144-67.8144 26.8544 0 48.64 30.7456 48.64 68.6336 0 37.8624-21.7856 68.608-48.64 68.608-26.6496 0-48.2816-30.2848-48.6144-67.7632L228.2752 363.2896zM481.2544 363.2896c0.3072-37.5552 21.9648-67.8144 48.6144-67.8144 26.8544 0 48.6144 30.7456 48.6144 68.6336 0 37.8624-21.7856 68.608-48.6144 68.608-26.6496 0-48.3328-30.2848-48.6144-67.7632L481.2544 363.2896zM593.3824 626.816c0.3328-28.8512 16.9216-52.0448 37.4272-52.0448 20.736 0 37.504 23.6544 37.504 52.864s-16.768 52.8896-37.504 52.8896c-20.5056 0-37.0944-23.2192-37.4272-52.0704L593.3824 626.816zM773.9392 626.816c0.3072-28.8512 16.9472-52.0448 37.4272-52.0448 20.736 0 37.504 23.6544 37.504 52.864s-16.768 52.8896-37.504 52.8896c-20.48 0-37.12-23.2192-37.4272-52.0704L773.9392 626.816z" p-id="996"></path></svg></a><p><a href="../../../../../zwwxq/" target="_blank">政务微信群</a></p></li>
+                    <li><a href="../../../../../wzdt/" target="_blank"><svg t="1496826071744" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" p-id="999" width="200" height="200"><defs><style type="text/css"></style></defs><path d="M511.902357 800.839355h-0.146465a36.135433 36.135433 0 0 1-27.351315-12.623492c-10.447804-12.189105-21.862024-25.22445-33.907169-38.988362-107.354758-122.605848-252.241995-282.429966-252.241995-432.802738C198.254161 141.942924 339.926689 0 514.078044 0s315.800098 141.942924 315.800098 316.426015c0 153.40221-152.530934 315.504665-262.304235 439.781711-9.963345 11.266504-19.468518 22.048548-28.344019 32.225956a36.248098 36.248098 0 0 1-27.327531 12.405673z m2.175687-728.147873c-134.126474 0-243.271355 109.327648-243.271355 243.734533 0 166.148381 172.266093 308.451834 243.536744 396.723638 70.667267-92.293946 242.957144-229.801623 242.957144-396.723638 0.023785-134.406885-109.096059-243.734533-243.222533-243.734533z m0 363.771618c-76.012597 0-137.826895-61.958259-137.826895-138.113565 0-76.156557 61.838083-138.113565 137.826895-138.113564 76.03513 0 137.85068 61.957007 137.85068 138.113564 0.001252 76.155306-61.81555 138.113565-137.85068 138.113565z m0-203.535648c-35.987716 0-65.273115 29.342983-65.273115 65.422083s29.28665 65.398298 65.273115 65.398299c36.010249 0 65.298152-29.319198 65.298152-65.398299s-29.287902-65.422083-65.298152-65.422083zM987.731873 1024c12.293007 0 23.761056-6.202836 30.453359-16.500421a36.283149 36.283149 0 0 0 2.835404-34.479256L894.043384 682.642465a36.409584 36.409584 0 0 0-33.288763-21.710553h-94.463374c-20.075658 0-36.369526 16.282601-36.369526 36.345741 0 20.086924 16.293868 36.345741 36.369526 36.345741h70.701066l95.045477 217.686376H94.455863l105.058895-217.662592h58.844949c20.07691 0 36.369526-16.258817 36.369525-36.34574 0-20.063139-16.292616-36.345741-36.369525-36.345741H176.771443a36.378289 36.378289 0 0 0-32.732949 20.473741L3.654103 971.783511a36.315697 36.315697 0 0 0 1.89152 35.159002A36.398318 36.398318 0 0 0 36.362015 1024h951.369858z" p-id="1000"></path></svg></a><p><a href="../../../../../wzdt/" target="_blank">网站地图</a></p></li>
+                    <li id="close"><a href="#" target="_self"><img src="../../../../../images/cuowu.png" /></a></li>
+                </ul>
+            </div>
+        </div>
+						<!-- 微信-->
+
+						<div class="con" style="width:1179px; overflow-x:auto;">
+							<div class="t">
+								<h2 style="color:#000">
+									年产18万吨镁锭及20万吨镁合金高端产品生产线
+								</h2>
+								<p class="x">来源：
+									更新时间：2023-07-10 11:25:23
+								</p>
+							</div>
+							<div class="n">
+								<div class="view TRS_UEDITOR trs_paper_default trs_word"><p><br/></p><p style="text-align: center; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 58px;"><span data-index="" style="margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 29px; font-family: 黑体, SimHei;">年产18万吨镁锭及20万吨镁合金高端产品生产线</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">一、项目名称</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">年产18万吨镁锭及20万吨镁合金高端产品生产线 </span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">二、招商单位基本情况</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）单位名称:山西振华国为科技有限公司</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）单位地址:山西省吕梁市交口县双池镇（交口经济技术开发区双池园区）</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（三）单位简介:山西振华国为科技有限公司经营范围包括一般项目：常用有色金属冶炼；有色金属合金制造；有色金属合金销售；有色金属压延加工；高性能有色金属及合金材料销售；有色金属铸造；锻件及粉末冶金制品销售；新材料技术研发；锻件及粉末冶金制品制造；新型金属功能材料销售；冶金专用设备销售；货物进出口；机械电气设备制造；机械设备销售；仪器仪表销售；机械零件、零部件销售；再生资源加工；再生资源销售；再生资源回收（除生产性废旧金属）；金属基复合材料和陶瓷基复合材料销售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">三、项目内容：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）建设背景:随着现代科技的不断发展，金属材料的消耗与日俱增，金属矿产资源逐渐趋于枯竭。镁是地球上储量最丰富的元素之一，在地壳表层金属矿的资源含量为2.3%，位居常用金属的第4位，此外在盐湖及海洋中镁的含量也十分可观，如海水中镁含量达2.1×1015吨。在很多金属趋于枯竭的今天，加速开发镁金属材料是实现可持续发展的重要措施之一。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金密度低，是实际应用中最轻的金属结构材料，具有比强度和比刚度高、电磁屏蔽效果好、抗震减震能力强、易于机加工成形和易于回收再利用等优点，在航空、航天、汽车、3C 产品以及军工等领域具有广泛的应用前景和巨大的应用潜力。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">随着“绿色，环保，可持续”的世界发展的主旋律，以轻质和可回收使用为应用特点的镁合金，日益成为现代工业产品的理想材料，其市场需求也一直呈现稳定增长的趋势。现代科技和相关产业技术的发展，各国对镁合金应用的推广，不仅消除了人们对使用镁合金的疑虑，而且使其各项独特优点更加完美，应用范围迅速扩展，特别是汽车零部件的大量应用，电讯产品向轻、薄、短、小方向发展，以及相关行业的密切合作与技术整合，更使这种新兴材料的市场发展呈现极为乐观的前景。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">在行业巨大需求背景下，抓住市场机遇、促进产业发展，山西振华国为科技有限公司，拟在交口经济技术开发区双池镇园区建设年产5万吨镁合金高端产品项目。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）建设地点:交口经济技术开发区双池镇园区</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（三）建设内容及建设规模:200万吨/年白云石矿山开采，18万吨镁锭及20万吨镁合金高端产品，配套白云石煅烧、硅铁、萤石磨粉，粉料成球，原煤粉磨站，粉煤气化发生炉系统，金属镁还原炉、粗镁精炼、镁合金熔炼铸锭，镁合金挤压、铸压、锻压、轧制产品生产线；辅助设施有水冷却系统，真空系统，还原罐生产车间，变电站，自动化控制系统，仓库、办公楼、食堂宿舍、环保、消防、废渣处理、厂区绿化等。项目进行分期建设：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">第一期建设5万吨镁锭 5.5万吨镁合金深加工产品，总投资约15亿元（不含白云矿煤矿资源价款及开采费用），占地500亩。2023年6月底前完成全部审批手续，取得立项批复文件。2023年7月-2024年7月完成设计、土建施工、设备采购、安装。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2024年8月-2024年11月完成生产调试、工程验收。2024年12月正式投产运行，一期工程达产后每年可完成销售产值35亿元，公司利润5亿元，上缴税金2亿元。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">第二期建设5万吨镁锭 5.5万吨镁合金深加工产品，总投资约16亿元，占地500亩，工期两年，视市场占有方向设计深加工生产路线。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">第三期建设8万吨镁锭，总体补齐20万吨镁合金深加工，投资约26亿元，占地700亩，工期两年，视市场站位设计深加工路线。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（四）产品名称和类型：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1.高强韧、低成本镁合金材料</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要开展高强韧、低成本新材料合成与制备，各类铸造镁合金、变形镁合金，主要产品有：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">开发适合于商用车的低成本镁合金、航空航天军工用高强韧镁合金。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2.镁合金压铸件</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要进行镁合金复杂零件的压铸生产，用于汽车、电动工具、3C等产品，各类镁合金压铸件，主要产品有：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">车用各种镁合金压铸件、电动工具、3C等镁合金压铸件。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">3.镁合金大截面管型材</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要进行镁合金棒材、型材、大型无缝管材的挤压生产，各类镁合金管型材，主要产品有：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金棒材、大截面型材、大口径无缝管材。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">4.镁合金带材</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要进行镁合金板、带材的轧制生产，年消耗镁合金1.5万吨，主要产品有：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金板材、3C用镁合金板带材。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">5.高性能镁合金锻造构件</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要进行高性能镁合金构件的锻造成形，年消耗镁合金1万吨，主要产品生产线有：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金汽车零部件锻造生产线、航空、航天、军工等类高端构件锻造生产线。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">6.镁合金构件连接及表面处理</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">主要对某些复杂构件进行连接加工及后续表面处理技术的开发，主要方向：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金复杂构件的连接加工、成形构件的表面处理。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（五）技术工艺和技术路线：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目以交口县优质白云石为原料，外购硅铁（还原剂）、萤石（催化剂），主要用煤做燃料（煤粉气化与发生炉煤气）加热生产出原镁锭，然后按不同产品的不同需求添加其他合金元素（铝、锌、锰、锆、稀土等）熔炼成不同规格的镁合金锭，再进一步按客户需求生产出各种挤压、压铸、锻压、轧制型材及产品。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1、镁锭生产工艺流程（皮江法）</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">白云石煅烧生成氧化钙和氧化镁为原料，以75号硅铁为还原剂，萤石为催化剂，在真空状态下（0.1毫米汞柱），用1200℃的温度经横罐11个小时（或竖罐9小时）还原成粗镁晶体，然后加二号熔剂（氯化镁）、硫磺700℃温度精练成为99.5%镁锭。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">还原反应：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">MgO＋CaO＋Si→Mg↑＋CaSi03↓</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">吨镁消耗：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">白云石10T、硅铁（外购）1.15T、原煤5T、不锈钢还原罐0.25个、萤石粉少量、电1500度、水10T、工资约1500元，辅助材料、折旧费、财务费用等根据规模另算。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">吨镁污染排放：二氧化碳5T、废渣6T、无废液。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2、镁合金锭生产</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">首先将熔炼坩锅用煤气或电加热到500-600℃，然后投入适量熔剂、镁锭或粗镁，当熔化镁液温度达700℃左右时静置15-20分钟后除去杂质，然后加入按配方设定的合金元素（铝、锌、锰、铍、稀土等）进行搅拌合金化，再静置15-20分钟后得到纯净的合金液体，采用泵转移到保温炉，然后由保温炉转移镁合金液浇铸，浇铸前模具上喷涂氮化硼脱模剂以便容易脱模和保护模具，连铸机进行的慢速移动，经冷却段完全冷却后脱模，然后将出模后的镁合金锭进行表面清理、盘点入库，供下游工序挤、铸、锻、轧等深加工，镁锭、镁合金锭或粗镁熔炼、浇铸过程均须有惰性气体保护。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金深加工</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金深加工分为挤、铸、锻、轧四大类别，在专用设备和对应配套模具的共同作用下成型。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">①镁合金挤压产品生产工艺流程</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">铸锭加热到470℃左右   一次挤压   切头去尾   二次加热    二次挤压    时效    拉伸矫正    切头去尾    二次矫正    检验     打号     上色    成品检查    包装入库。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">②镁合金压铸件生产工艺流程</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">将镁合金锭送入镁合金熔炉加热到700℃左右，使之成为液态，然后导入载有模具的压铸机合模成型，冷却定型后出模，切头、修边、检验、包装入库，镁合金熔化压铸过程需用SF6、CO2等保护气保护以防燃烧爆炸。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">③镁合金锻压工艺流程</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">将镁合金铸锭或挤压坯料加热至350℃-450℃，然后导入预热后的锻模内进行热态锻造成型，根据不同产品的不同造型选用平砧、异形砧、辊轮环锻锻造成型，然后在220℃-250℃温区内剪切俢边，检验入库。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">④镁合金轧制，一般在挤压型材基础上精深加工，需要有相应的模具与工艺配合。分为热轧（370-510℃）、温轧（250℃稍高）、冷轧（100-200℃），可以选择小变量、多道次轧制成0.5mm-10mm的不同板材以派上不同用场。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（六）项目总投资及资金来源：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目总投资55亿元，全部由企业自筹。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">四、项目优势分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）企业优势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">山西振华国为科技有限公司依托山西鼎耀恒瑞集团及山西宏图恒建建筑工程有限公司等公司的人力资源和资本运作能力，拟在白云石、原煤资源非常丰富的交口县开发金属镁冶炼及镁基轻合金深加工系列化产品。山西振华国为科技有限公司项目筹建办公地址设在交口县县城工商银行正对面，现已筹建了16人的领导班子，有从事金属镁行业多年的高级工程师，有土建、设备、电器、环保等方面的专业人员，公司还与山西银光镁业、府谷县镁工业协会、太原理工大学、中北大学等单位建立了产学研合作关系。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）资源优势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目地区境内有丰富优质的白云石资源，而且蕴藏着丰富的煤炭等矿产资源，得天独厚的地理条件为镁合金的生产提供了基本的原料和能源，降低了生产成本，提高了本项目在市场上的竞争力。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">交口县白云岩矿石资源丰富且质量优良，白云石矿储量约3.2亿吨，区内矿石为白云岩矿，灰色，主要为微晶方解石组成，微晶结构，豹皮状构造。显微镜下观察：含生物碎屑、粉屑，微晶结构，缝合线构造，含微晶方解石75-80%左右，粉晶方解石5%，粉屑5-10%，生物碎屑小于5%，白云石4%以下，铁质1%，呈质点状、细脉状零星分布。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">白云石矿体MgO含量最高22.78%，最低17.51%，一般20.12%～21.23%，平均品位21.25%，变化系数3.21%；CaO含量最高34.00%，最低28.20%，一般在30.03%～31.19%，平均品位30.53%，变化系数2.28%</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">矿石用途类型广泛，主要应用于冶金、化学、建筑及其他工业。矿石区域比重2.58-2.68t/m3，平均为2.60t/m3。抗压强度111.74-181.35 Mpa，抗剪强度（凝聚力值）：4.21Mpa，抗拉强度1.5-2.3 Mpa，抗折强度4.4-12.7Mpa，该矿石压碎指标为11.9%，其针、片状颗粒含量均小于15%。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（三）技术优势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">为了提高企业的综合经济实力及竞争能力，本项目注重环保与节能及资源的合理配置与利用，并采用当前镁行业成熟先进的生产工艺及技术，主要体现在以下几方面：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1.采用先进的机械化装料技术及气力出渣系统</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">采用机械化装料及气力出渣技术可使还原周期中的辅助作业时间缩短为目前的1/2～1/3左右，提高产能10%～15%左右；同时该技术可减少还原炉出镁时的能源浪费，稳定炉温，提高还原炉热效率，延长还原罐使用寿命；该技术使还原车间的劳动强度、环境温度和环保条件大大改善，劳动生产率大大提高。该技术所带来的社会效益与经济利益是不言而喻。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2.回转窑的节能</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">回转窑采用新型节能回转窑，新型节能型回转窑采用竖式预热器预热物料，充分利用回转窑燃烧产生的高温烟气，使物料在预热器内发生部分分解，热效率提高30%，使系统产量提高40%，出料端采用竖式冷却器回收余热，窑屋烟气温度低于280℃，节能效果显著。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">3.采用新型压球机</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">采用镶嵌辊皮压球机，成球平高，含粉量少，更换辊皮方便快捷，提高压球工序生产和经济效率。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">4.采用竖罐还原工艺</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">竖式底出渣工艺还原炉内还原罐竖立放置，一台炉可放置30根大直径竖罐；还原罐的直径大，是横罐的3倍以上（内要放置中心管）；装料量大；料镁比高；单台炉产量是横罐还原炉的5倍以上。单位产品综合能耗可以显著降低。可以采用机械化作业，出渣方式靠重力自动出渣，没有人工扒渣。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">能耗降低的原理是：1.竖罐工艺的还原罐的放置密度增加，从传统的单罐与炉墙比是1: 1. 3-1. 6.减少到1:0. 6，大大减少了窑炉的热消耗；2. 强化对还原罐的辐射对流传热，产量可以提高20%以上；3.竖罐有中心管，实际料层传热厚度低于横罐；4.横罐底部放置在耐火炉台上，而竖罐时还原罐四面都均匀受热。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">5.采用新型蓄热式镁还原炉</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">蓄热式镁还原炉可以充分回收烟气余热，大幅度节能降耗，减少污染排放，提高炉窑产量。同时蓄热炉采用高温空气预热技术，可使用低热值燃料等清洁能源，经济效益显著。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">6.镁合金炉采用大型密闭设备</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">综合借鉴国内外各镁合金生产企业的先进技术及成熟经验，采用大型密闭设备、机械化流水线作业和自动控制。以技术、装备和控制的高起点，保证产品的高质量。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">7.设计完善的自动控制系统</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">提高镁还原率，减少硅铁消耗。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">8.设计当中注重环保。减少粉尘及河染物的排放</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">生产线设计时充分考虑“三废”的治理，设置必要的除尘。“三废”的治理，设置必要的除尘，隔音降桑，气体回收、余热回收及降温除尘装置，减少环境污染，努力实现清洁文明生产。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">五、项目市场前景</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）行业概况：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1、产业政策符合性分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目主要建设内容包括炼镁工序、镁合金制造和镁合金高端产品深加工，项目与《产业结构调整指导目录》（2019 年本）》符合性分析见下表。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目与国家产业政策相符性分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">国家产业政策要求</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目分析判定情况</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">分析结果</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">根据《产业结构调整指导目录（2019年本）》，其中鼓励类提到：“九、有色金属”中“2、高效、低耗、低污染、新型冶炼技术开发”、“5、交通运输、高端制造及其他领域有色金属新材料”中第一小条，“（1）交通运输：高性能镁合金及其制品”属于鼓励类</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">①、本项目年产5万吨镁合金高端产品符合《目录》中第一类鼓励类中第九条第5款：交通运输、高端制造及其他领域有色金属新材料，属于鼓励类项目。②、项目采用大型竖罐底出渣双蓄热镁冶炼技术，实现超低排放，属于《目录》中第一类鼓励类中第九条第⒉款有色金属的高效、低耗、低污染、新型冶炼技术开发项目。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">属于鼓励类</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">因此，综合上表分析，本项目年产5万吨镁合金高端产品，项目的建设符合国家产业政策要求。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2、项目与《镁行业规范条件》符合性分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">对照工业和信息化部于2020年2月28日发布的《镁行业规范条件》（中华人民共和国工业和信息化部公告2020年第8号），项目与《镁行业规范条件》符合性分析见下表。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目与《镁行业规范条件》相符性分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">《镁行业规范条件》要求（仅节选与本项目相关的条款）</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目分析判定情况</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">分析结果</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">一、总体要求</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）镁矿山、冶炼企业应靠近具有资源、能源优势地区，须符合国家及地方产业政策、矿产资源规划、环保及节能法律法规和政策、矿业法律法规和政策、安全生产法律法规和政策、行业发展规划等要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目属于镁冶炼企业，利用交口县的白云石矿，矿区距离拟建厂区直线距离约15km，靠近资源优势地区，项目符合国家产业政策及相关法律法规要求</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">二、质量、工艺和装备</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）镁矿山、冶炼企业应建立、实施并保持满足GB/T19001要求的质量管理体系，并鼓励通过质量管理体系第三方认证。原镁产品质量应符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">《原生镁锭》（GB/T3499）</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目建成后将建立、实施并保持满足GB/T19001要求的质量管理体系，拟通过质量管理体系第三方认证。项目原镁产品质量符合《原生镁锭》（GB/T3499）产品质量要求</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（三）镁冶炼企业须选择符合要求的白云石资源，采用生产效率高、能耗低、环保达标、资源综合利用效果好、安全可靠的先进生产工艺系统。须拥有资源综合利用，节能，还原和精炼车间的冶炼尾气余热回收，收尘，二氧化硫、氮氧化物尾气治理等工艺及设备，不得采用国家明令禁止或淘汰的设备、工艺。配备的工艺及设备须</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">满足国家《节约能源法》、《清洁生产促进法》、《环境保护法》等法律法规的要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目采用的白云石矿资源符合生产要求，项目采用的先进的生产工艺，生产效率高、能耗低、环保达标、资源综合利用总体效果好、安全可靠，还原和精炼车间的冶炼尾气进行了余热回收；项目的收尘，二氧化硫、氮氧化物尾气治理等工艺及设备不采用国家明令禁止或淘汰的设备、工艺，各生产工艺、污染治理工艺等均能满足配备的工艺及设备须满足国家《清洁生产促进法》、《环境保护法》等法律法规的要求</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（四）煅烧系统应采用节能环保型回转窑，以气体为燃料的可控竖窑等先进煅烧设备。配料制球系统应采用自动控制配料，实现机械化操作，物料输送系统全封闭。还原系统应采用蓄热式高温空气燃烧技术还原炉，用能有计量，进料、出渣实现机械化。精炼系统应采用坩埚熔化，用气体燃料；用电炉或煤气保温，连铸机浇注。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目煅烧系统采用节能环保型回转窑，配料制球系统采用了自动控制配料，实现机械化操作，物料输送系统全封闭。</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目还原系统采用蓄热式高温空气燃烧技术还原炉，用能有计量，进料、出渣实现机械化。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目精炼系统应采用坩埚熔化，用气体燃料；用电炉保温，连铸机连续浇注。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">三、能源消耗</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（六）镁企业应建立、实施并保持满足GB/T23331 要求的能源管理体系，并鼓励通过能源管理体系第三方认证。能源计量器具应符合《用能单位能源计量器具配备和管理通则》（GB17167）的有关要求，鼓励企业建立能源管控中心，所有企业能耗须符合国家相关标准的规定。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目建成后将建立、实施并保持满足GB/T23331 要求的能源管理体系，拟通过能源管理体系第三方认证。能源计量器具应符合《用能单位能源计量器具配备和管理通则》（GB17167）的有关要求能耗须符合国家相关标准的规定。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（七）镁冶炼企业吨镁综合能耗在4.5吨标准煤及以下。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目吨镁综合能耗在3.09吨标准煤</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（八）禁止用原煤直接加热各种炉窑（部分企业回转窑喷煤粉除外）。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目回转窑为喷煤粉；</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">四、资源综合利用</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十）镁冶炼企业的吨镁白云石用量在10.5吨及以下，硅铁（Si&gt;75%）用量在1.05吨及以下，新水消耗在10吨及以下。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目吨镁白云石用量在10吨，硅铁 </span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">用量在1.0吨，新水消耗在8.5吨</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十一）镁冶炼企业的还原镁回收率应不低于80%、硅利用率不低于5%、粗镁精炼回收率不低于96%。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目粗镁收率为82.5%，硅利用率约76%，粗镁精炼回收率约97.5%</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十二）鼓励镁冶炼企业积极研发镁还原渣综合利用技术，利用镁还原渣生产镁渣硅酸盐水泥等建材产品，镁还原渣综合利用率应不低于70%，</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">减少废渣排放。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁还原渣经冷却、辊压、风选后作为水泥添加材外售，综合利用率</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">100%</span></span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十三）提高还原炉、回转窑等主要工序的生产全过程余热利用水平，包括高温烟气的余热等。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目对还原炉、回转窑等主要工序的生产全过程余热均加以利用</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">五、环境保护</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十四）镁矿山、冶炼企业须遵守环境保护相关法律、法规和政策，应建立、实施并保持满足GB/T24001 要求的环境管理体系，并鼓励通过环 </span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">境管理体系第三方认证。</span> </span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目建成后将遵守环境保护相关法律、法规和政策，建立、实施并保持满足</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">GB/T24001 要求的环境管理体系，建成后拟通过环境管理体系第三方认证。</span></span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十六）镁冶炼企业须按《排污单位自行监测技术指南有色金属工业》（HJ 989）等相关标准规范开展自行监测，应安装、使用自动监测设备的， </span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">须依法安装配套的污染物在线监测设施，与生态环境主管部门的监控设备联网，保障监测设备正常运行，鼓励开展厂内降尘监测；须依法领取排</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">污许可证后，方可排放污染物，并在生产经营中严格落实排污许可证规定的环境管理要求。物料储存、转移输送、装卸和工艺过程等环节的无组</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">织排放须加强控制管理，制定相应的环境管理措施，满足有关环保标准要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目建成后将按《排污单位自行监测技术指南有色金属工业》（HJ 989）等相关标准规范开展自行监测，评价制定企业自行检测方案，提出了企业依法安装、使用的自动监测设备应与生态环境主管部门的监控设备联网，保障监测设备正常运行。</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">企业开展厂内降尘监测；</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目建成后将依法领取排污许可证，并在生产经营中严格落实排污许可证规定的环境管理要求。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">建议项目建成后在物料储存、转移输</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">送、装卸和工艺过程等环节的无组织排放须加强控制管理，制定相应的环境管理措施，满足《镁、钛工业污染物排放标准》（GB 25468-2010）表 6 中企业边界大气污染物浓度限值标准要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十七）镁矿山、冶炼企业废水、废气等污染物排放不得超过国家或地方的相关污染物排放标准，排放总量不超过生态环境主管部门相关管理要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目废气等污染物排放不超过《镁、钛工业污染物排放标准》（GB 25468-2010）及其修改单中大气污染物特别排放限值要求，项目废水不外排，项目总体污染物排放总量不超过生态环境局管理要求。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十八）固废不具备资源化条件的企业应设有专用的废渣堆存处置场地，并符合《一般工业固体废物贮存、处置场污染控制标准》（GB18599）。危 </span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">险废物的产生、收集、贮存、运输及处置应严格执行危险废物相关管理规定。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目设置有专用的废渣堆存处置场地，并符合《一般工业固体废物贮存、处置场污染控制标准》（GB18599）要求。危险废物的产生、收集、贮存、运输及处置严格执行危险废物相关管理规定。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（十九）厂内噪声符合国家或地方相关排放标准要求。采用低噪音设备和设置隔声屏障等进行噪声治理。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">经预测，本项目厂内噪声符合国家排放标准要求。各噪声源采用了低噪音设备和设置隔声屏障等进行噪声治理。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-size: 21px;"><span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二十）推行清洁生产，降低产污强度，镁生产企业应依法定期实施清洁生产审核，并通过评估验收。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">项目将清洁生产，建成后将定期实施清洁生产审核，并通过评估验收。</span> <span style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">符合</span></span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">综合上表分析，本项目在总体选址布局、质量、工艺和装备、能源消耗、资源综合利用、环境保护等方面均满足《镁行业规范条件》，因此，项目符合行业政策要求。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">3、根据山西省工业和信息化厅关于印发《山西省新材料产业集群打造2022年行动计划》的通知中明确：“（三）实施关键技术攻坚行动，提升产业核心竞争力  ......依托镁合金材料国家级企业技术中心的人才技术优势，与中北大学强强联合，攻关镁合金大型承力构件控制成形技术、航空航天/国防用高强度大尺寸复杂精密合金铸锻造技术等项关键技术，推动镁合金材料在汽车轻量化结构件领域的广泛应用；”本项目建设公司与山西银光镁业、府谷县镁工业协会、太原理工大学、中北大学等单位建立了产学研合作关系。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）行业发展状态分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1、国外镁产业发展趋势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（1）原镁产业：西方国家企业受环保等因素的影响，不可能采用硅热法（皮江法）大规模生产原镁，中国仍将是世界成本最低的原镁生产国，国外依赖中国原镁供应的格局不会改变。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（2）镁合金产业：基于国家安全考虑，以及国防产品的保密性，国外政府不会完全依赖别国供应特殊镁合金，国外镁合金生产企业仍会占有较高比重。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（3）镁加工产业：镁加工产品主要作为汽车和3C行业产品的零部件，欧美日等国该类产业的研发水平仍将处于领先地位。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2、国内镁产业发展趋势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">我国是世界上镁矿资源最丰富的国家，矿石种类齐全、分布广，总储量居世界第一，在我国发展镁产业具有明显的资源优势。我国菱镁矿储量占世界的60%，白云石资源遍及我国的各省区，特别是山西、宁夏、河南等省区，现已探明白云石储量40亿吨以上。我国所特有的四大盐湖区（内蒙古、新疆、青海、西藏）镁盐矿产资源的远景储量数十亿吨，特别是青海湖区的柴达木盆地，镁盐资源居全国之冠。我国镁盐资源总量估计达65亿吨，其中氯化镁和硫酸镁储量分别达到了31.43亿吨和16.73亿吨，而海水储镁量更是无法估量。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁的主要生产工艺包括电解法和硅热法（皮江法）两种，其中电解法的主要原料包括卤水、菱镁矿、光卤石等，硅热法主要原料为白云石，由于我国白云石矿产资源十分丰富，几乎各省都有分布，目前中国主要采用硅热法。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">经过多年的发展，我国镁冶炼技术工艺有了较大提升，如竖罐技术的应用和推广，从能耗和产量来看都较横罐有更大优势，但面对新形势、新要求，镁冶炼技术工艺发展仍较为滞后，机械化、自动化水平还需提升，工况条件需更好的改善。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">多年来，一些大中院校，科研院所在探索冶炼新技术、现有工艺技术提升等方面做了大量而富有成效的工作，但这些工作大多较为独立，缺乏有效的联合和协同。“十四五”期间将进一步加强行业引导和协调，整合行业资源和技术，有效提升行业机械化、自动化水平，增强竞争力，改善工况条件，推动行业冶炼技术进步，适应时代发展的新要求。同时，鼓励借鉴其它行业先进技术和经验，推动现有冶炼技术实现革命性突破，最终实现规模化连续生产。中国作为全球原镁供应第一大国，近年来原镁生产规模持续扩张。预计2022年我国原镁产量有望超过100万吨，预计未来几年国内产量呈现波动变化趋势。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁及镁合金作为一种轻金属材料，具有比强度高，比刚度高，电磁屏蔽性、阻尼减震性好以及抗辐射能力强等诸多优异性能，广泛应用于航空航天、汽车、节能、环保以及通讯、电子等战略性新兴产业，被誉为“21世纪最具开发和应用潜力的绿色工程材料”，美国、日本等许多发达国家均将其作为战略性原材料，全球原镁消费量总体呈持续上涨的态势。据测算2022年我国原镁镁实际消费量有望达到60万吨左右。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2019年我国原镁市场规模为77.35亿元，2020年受产品价格下降的影响，我国原镁市场规模下滑至72.05亿元，2021年随着镁的价格上涨，原镁市场规模随之增长。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">经过多年的发展，我国镁冶炼技术工艺有了较大提升，如竖罐技术的应用和推广，从能耗和产量来看都较横罐有更大优势，但面对新形势、新要求，镁冶炼技术工艺发展仍较为滞后，机械化、自动化水平还需提升，工况条件需更好的改善。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（三）国内镁合金产业发展趋势</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（1）镁及镁合金产业发展现状</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金作为最轻的金属结构材料，在航空、航天、汽车、高铁、通信等领域有着巨大的应用潜力，成为最具发展前景的金属结构材料之一。中国是镁资源大国，拥有大量的镁矿资源和含镁盐湖资源。2003年以来，我国已连续18年成为世界上最大的原镁生产国与出口国。大力推进镁合金工业化应用，不仅是结构材料轻量化、保护环境的重要举措，也是充分利用我国丰富的资源、缓解对铁铝矿资源进口依赖的重要举措，特别是在复杂多变的国际形势下具有极其重要的战略意义。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">据中国有色金属工业协会统计，2019年我国原镁产量96.9万吨，同比增长12.2%。目前，全球原镁约有45%用于生产镁合金，70%用于汽车行业，20%用于3C电子产品，10%用于军工等领域。如图7-6所示，2019年我国出口原镁和镁制品45.16万吨，出口量占全球总产量的53%。镁合金深加工产品以压铸方式为主，但存在一定局限性，制约了镁合金应用的大规模扩展。变形镁合金产品需进一步从加工技术到应用技术进行攻关。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">自2000年起，我国政府、科技界和企业界开始高度重视镁产业发展：以师昌绪为代表的五位院士发表了“加速中国金属镁工业发展的建议”；国家科技部、工信部、发改委等在镁合金应用开发及产业化方面进行了总体战略部署，初步建立了镁合金技术研发到产业化的技术研发体系，突破了一批前沿核心技术和产业化关键技术，在全国建立了一批产业化示范基地。全国很多省市，特别是中西部地区，积极争取国家支持，以占领金属镁工业高地，并形成新的经济增长点及支柱产业。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（2）合金产业发展加速</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">近年来在国家科技部和工信部的大力推动下，镁合金产业发展迅速，以压铸件为例，产量年均增长20%以上，并吸引了以美国、加拿大、日本等国家和地区的世界镁加工一流企业到国内投资办厂，在一些地区已形成了不同产品种类和规模的镁合金产业群体，中国镁世界制造工厂的地位已基本成形。目前已形成以珠江三角洲、长江三角洲地区、华北地区、环渤海地区、重庆地区等为代表的镁合金产业群体。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">在珠江三角洲一带集中了一批台资和港资镁合金压铸生产企业和设备供应商，如：台资企业富士康、港资企业嘉瑞/力劲等，以生产计算机、通信和消费类电子产品部件为主的富士康已成为全球最大的3C镁合金供应商。深圳力劲生产的系列镁合金专用压铸机以及辅助装备，在国内外多次招标中多次击败许多国外著名的压铸机生产公司，现已成为国内镁合金压铸的首选机型，市场占有率已达到70%以上。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">长江三角洲地区主要分布在上海、江苏、浙江等地，其中上海镁镁压铸厂，主要生产汽车和摩托车用镁合金压铸件，产品主要供给通用汽车，已成为中国最大的镁汽车零部件供应企业。台湾敬得是台湾地区镁合金压铸件生产资深企业，在太仓建立了敬得科技公司，主要生产3C镁合金产品和汽车、手动工具零部件。浙江万丰新材料科技收购了加拿大镁瑞丁公司的镁合金压铸业务，在浙江新昌开始大规模生产镁合金汽车零部件，主要供给奔驰、宝马和奥迪等汽车品牌。浙江泰普森集团专注于镁合金在休闲产品上的批量应用，产品销往欧洲和美国。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">华北地区、环渤海地区还有瞄准变形镁合金市场的企业群体，重点开展变形镁合金板材轧制、型材挤压和锻件加工。华北地区以山西银光华盛镁业、北京广灵精华、西部钛业、焦作高招镁业、河南德威等为代表，主要进行镁合金板型材和镁轮毂等产品加工。环渤海地区的国营企业主要是东北轻合金有限公司，主要进行镁合金型材的加工。上述两家企业的产品主要供应给军工应用。民营企业主要有辽宁中旺铝业公司、山东丛林公司、山东华盛荣等。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">重庆地区的镁产业由于地方政府的大力支持，企业和院校的积极参与，走出了一条政、产、学、研、用通力合作的成功道路，不但形成了完整的设备制造、材料制备、产品加工、废料回收完整的产业链，而且研发、装备、加工、应用等方面长期处于国内前列。重庆目前有重庆长安、博奥镁铝、仟和镁业、昱华新材料等三十多家企业在研究、生产、加工、应用镁合金产品，镁合金汽车零部件、纺织机械镁合金产品等在行业中影响很大，且石油钻采等新型镁合金发展十分迅速。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（3）工程化产业布局</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金轮毂和镁合金挤压材被列入新版《 重点新材料首批次应用示范指导目录》。工信部发布的《重点新材料首批次应用示范指导目录》（2019 年版），自2020年1月1日起施行。新版《重点新材料首批次应用示范指导目录》包括了两种镁合金材料，即“镁合金轮毂”和“非稀土高性能镁合金挤压材（应用于汽车、轨道交通、航空航天，也包括镁合金棒材）”。将“镁合金轮毂”和“非稀土高性能镁合金挤压材”列入重点新材料，符合当前镁合金市场开发的方向和趋势。当前，镁合金轮毂和挤压材正处在产业化应用的关键阶段，将是镁合金应用的亮点和市场规模化的重要突破口。此项政策将为镁行业积极拓展新应用领域提供导向支持和重要保障。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（四）市场需求分析：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁被誉为“21世纪绿色工程材料”，镁合金是工业应用中最轻的结构金属，随着经济的发展，资源的紧缺越来越显现，受益航空工业和汽车工业的快速发展，镁合金将成为“十三五”期间最有潜力的合金材料。当镁合金的性能达到450MPa以上，其强度水平将与普通结构钢相当，但其重量仅是钢铁的1/4。根据国家镁协专家预测，汽车上可以采用镁合金的构件能够达到150-300kg，镁合金加工件将达到100万吨，新增产值1000多亿元。如打入国际市场，经济效益将更加可观。镁合金高性能构件的应用，是实现交通运输、航空航天、武器装备等行业轻量化及节能减排的最有效的技术途径，同时还将提高我国在这些领域的竞争能力。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1.镁合金在汽车领域应用前景广阔</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">国家工业和信息化部长期积极推进轻材料工业与下游产业合作计划，要求加强行业之间、专业之间的横向联系，特别是对国民经济有重要影响的一些行业。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金由于其比强度高、弹性模量大、散热好、消震性好、承受冲击载荷能力比铝合金大、耐有机物和碱的腐蚀性能好等特点，现已广泛应用于航空、航天、运输、化工、火箭等领域。随着结构轻量化和轻量化技术的发展，轻型产品的优势得到了充分的发挥，获得了镁铝、钢铁行业的重视和用户行业的青睐。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">镁合金是制造工业中可使用的最轻金属结构材料之一，其性能特点决定了众多的应用优势：一是减轻资源压力，镁合金产品的应用可以缓解铁矿和铝矿资源短缺的压力；二是镁合金产品减震性能优越；三是减轻能源和环境压力，以汽车为例，镁合金大规模应用可降低10%~15%的油耗和排放。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">我国汽车产业已连续多年保持高速增长，随之带来的汽车的油耗及排放也不断增加，对我国的能源及环境产生了不良影响。在二氧化碳排放方面，我国碳排放年约占全球1/3，位列榜首，单位GDP能耗是世界平均水平的1.77倍。2020年9月中国政府明确提出2030年“碳达峰”与2060年“碳中和”目标，即到2030年单位国内生产总值二氧化碳排放将比2005年下降65％以上，减少碳排放量已经成为了我国迫在眉睫要解决的问题。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">由于全球超过15%二氧化碳排放都来自于道路交通，因此，如何减少汽车能源消耗与降低排放成为各国政府和汽车行业面对的主要问题，开发替代能源、发展公共交通和智能交通、推广电动汽车等手段可以在一定程度上减少能源消耗和污染物排放，但传统的汽油和柴油汽车目前仍是绝对主流，并将在很长一段时间内占据主导地位，如何降低传统汽车油耗、二氧化碳排放是目前的重要课题，各国政府也纷纷制定了相应的减排方案和汽车油耗及排放标准。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">汽车轻量化是实现汽车节能减排的重要途径，减小汽车自身质量是汽车降低燃油消耗率及减少排放的有效措施之一。研究表明，汽油乘用车重量每降低100kg将节油0.64L/100km。世界铝业协会报告也指出，汽车质量每降低10%，可降低油耗6%~8%，排放下降4%。除此之外，轻量化还可改善发动机性能，提高燃烧效率，提升汽车的空气动力学性能，降低滚动阻力；提高动力传动效率，减小功率或动力传递损失，所以轻量化是目前汽车行业的重点研究内容，汽车轻量化技术包括产品结构、材料和制造三方面轻量化技术，即轻量化结构技术、轻量化材料技术和轻量化制造技术。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">汽车轻量化结构设计技术通过优化设计汽车结构，大量应用高强精密型材，减少车身重量和钢板厚度，使部件薄壁化、中空化、小型化及复合化达到轻量化目的。作为汽车轻量化的重点板块，高强精密型材在汽车尤其是乘用车上的需求快速增长趋势，且今后的发展趋势将紧紧围绕着精密、高强、集成、高效这四个主题。总体而言，在未来，高强精密型材的市场前景将持续利好。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2.镁合金在交通运输工具中应用节能减排效果显著</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">在目前世界能源紧张的情况下，如能在交通运输行业有效实现“以镁代铝”，则可有效实现轻量化的目标，缓解日益严重的能源问题。由于镁合金性能的不断改善及加工技术的显著进步，加上人们对产品轻量化的要求日益迫切，镁合金的用量显著增长。特别是人们对乘用车及商用车提出了进一步减轻重量、降低油耗和排放、提高驾驶安全性和舒适性的要求, 各大汽车制造厂商，加快镁合金汽车零件的应用。而车体重量每减少100kg，百公里油耗可减少0.7L，节能减排的效果十分显著，因此汽车用镁合金零件产量在工业发达国家出现了持续快速增长的势头，国产汽车厂商也已经开始关注，并付诸实施。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">3.国防军工行业应用前景广阔</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">目前铝合金在武器装备方面已达到较为广泛的应用，相比之下镁合金除具有密度小，比强度高等特性外，同时还有很强的高阻尼性能（为铝合金的10-25倍）和特殊的电磁屏蔽效果，加之镁合金价格比复合材料低。随着镁合金强化技术和表面防护技术的逐渐成熟，在武器装备上同时发挥镁合金轻量化和高阻尼二者的优势成为可能。如穿甲弹弹托由镁合金代替铝合金，可使起其无效质量减少20%，初速提高10%，穿深能力可提高15%。为实现武器装备的轻量化和高性能，当前航空、航天、兵器、船舶等军工部门都提出了新一代高性能武器装备所需镁合金材料与产品，如：弹箭类构件（巡航导弹、火箭弹的弹体）、军用车辆构件（装甲车负重轮、战车轮毂）等。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">4.航空航天领域</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">在航空、航天、交通等高端装备制造领域，有“一克重就是一克金”的说法，材料越轻结构工作效能越高。从某种意义上说，航天装备的竞争就是材料的竞争、制造能力的竞争。航空材料减重带来的经济效益和性能改善十分显著，商用飞机与汽车减重相同质量换来的燃油费节省，前者是后者的近100倍。而战斗机的燃料费节省又是商用飞机的近10倍，更重要的是机动性能提高可极大提升战斗机的战斗力和生存能力。在航空器上，镁合金已用于飞机引擎的部件，如美国定期短途航空公司航线上使用的BAL146飞机就有200多个不同的镁合金部件。美国军方、飞机和发动机制造商联合研究结果表明，镁合金除了通常提到的优点外，还有一定的耐高温能力，可以与液体燃料接触，可以防止高空臭氧腐蚀和空间射线辐射，防止短电磁波、高能粒子和流星体的轰击，由其制备的零部件因质量降低可带来巨大经济效益（如商用机、战斗机、航空器质量每降低0.45kg，可分别节约$300、$3000、$30000）。为此，美国、以色列、欧共体投入巨资，研究开发超高强度镁合金以及其在航空航天领域的应用。超高强度镁合金的零部件通过压力成形和机械连接制成，如今已被美国和以色列应用于飞行器推进器冷室的多种关键零部件上。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">5.日用品、旅游镁合金产品的开发与产业化</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">高性能低成本镁合金日用品的开发尚处于起步阶段，主要产品有镁合金炊具、帐篷支架、行军床、攀登器具等。产品具有绿色环保、重量轻等优势，属于新型行业，对拉动市场内需有重要作用。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">使用可回收合金替代其它难以回收的材料是保护环境和节能减排的有效举措。镁的废弃物做到100％回收再利用。如镁合金机壳和相同厚度的碳纤维机壳等重，但镁合金具备可回收﹑散热等碳纤维所缺乏的特性，且成本更低；此外与塑料类材料相比，镁合金更具有优良的可回收性，这对降低成本、节约资源、改善环境都有益。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（五）产品(项目)市场竞争力分析：</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1.满足市场需求</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">随着全球镁合金应用领域的不断发展，以及中国在汽车、3C、航空航天领域的不断进步，镁合金精密零部件的生产与消费也随之不断发展。本项目的产品市场需求稳定增长，项目的建设符合国家、行业的规划。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2.生产技术设备先进可靠</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目的生产工艺成熟、可靠。主要设备都采用国内先进设备，控制手段齐全，设备装机水平高，具备生产高品质产品的能力。项目建设在技术上是可行的。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">3.良好的经济效益</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">本项目具有良好的经济效益，税后项目投资回收期适中，投资效果较好。综上所述，本项目产品市场前景广阔，选用的工艺和技术装备先进，自动化程度高，保措施得当，经济效益合理，社会效益显著。因此，本项目建设是可行的。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">六、项目的配套要素</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">交口县交通发达，交口至离石、石楼、霍州、灵石、临汾等五条干线公路覆盖交口县，此外尚有乡镇级公路多条，连接着交口县各个乡镇。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">七、项目进展情况</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">目前项目正在具体筹备当中，准备前期相关手续办理。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">八、项目效益分析</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">目前世界镁合金使用总量为100万吨/年数量级，随着轻量化革命，据全球专家和学者判断十年内会发展到500万吨/年数量级，凭交口县优质资源优势与我们定位的规模，该项目会成为国内最大的镁合金及深加工产品基地。20万吨镁合金深加工项目完全投产运营后公司每年利润超10亿元，上缴税金超5亿元，从业人数超3000人，可带运输等行业发展，能产生明显的社会经济效益，有效促进交口县县城经济发展。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">九、招商目标</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">招商主体为山西振华国为科技有限公司，拟引资金57亿元，全部由公司自筹。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">十、招商引资优惠政策及服务措施</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（一）优惠政策</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">1.项目可享受《交口经济技术开发区招商引资优惠政策》</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">2.具体摘录、列举3-5条较为特色的优惠政策。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（1）在开发区投资的用地企业，优先纳入供地计划，优先安排用地指标，优先办理用地手续，土地出让年限可以按国家规定的最高期限办理，并可预留一定弹性指标，保障入区项目后续产业发展用地需求。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（2）对固定资产投资总额在10亿元至20亿元（含本数），投资强度200万元／亩以上的工业项目，比照项目缴纳的土地出让金中县级财政净收益部分的70%给予奖励；投资强度达到300万元/亩的，追加20%奖励。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">对于产业发展带动性强的先进制造业项目、高新技术项目和固废综合利用项目，比照项目缴纳的土地出让金中不超过县级财政净收益部分的100%给予奖励。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（3）固定资产投资20亿元以上的项目，包括延伸本地主要产业链条和补链工业项目，从企业投产达效年度起五年内，县财政比照当年企业对县财政贡献额度县级留成部分的60%给予奖励。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">（二）服务措施</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">负责成立专班，为企业提供全程服务，做好协调工作，及时解决项目建设运营过程中的问题，为项目的顺利实施营造良好的环境。</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">十一、招商项目联系人信息</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">姓名：殷继峰</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">单位：交口经济技术开发区管理委员会</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">职务：招商引资部部长</span></p><p style="text-align: justify; font-family: 仿宋, FangSong; font-size: 16px; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; text-indent: 42px;"><span data-index="6" style="font-family: 仿宋, FangSong; margin-top: 2px; margin-bottom: 2px; line-height: 1.5em; font-size: 21px;">联系方式：13935883229</span></p><p style="text-indent: 32px;"><br/></p></div>
+								<div style="clear:both"></div>
+								<dl class="affairs-detail-qcode oflow-hd">
+									<dt>扫一扫在手机打开当前页面</dt>
+									<dd>
+										<div id="qrcodeCanvas"></div>
+									</dd>
+								</dl>
+							</div>
+
+						</div>
+						<!-- 推荐开始 -->
+						<div style="margin-left: 20px;">
+							<ul>
+								
+							</ul>
+						</div>
+						<!--推荐结束 -->
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<style>
+			.table {
+				width: 100% !important;
+			}
+
+			.tr {
+				width: 1100px !important;
+			}
+
+			/*.con .n img {max-width:1100px!important;max-height:1300px;}*/
+		</style>
+		<style>
+        .Top_Record{}
+        .topRec_List dl,.maquee{  overflow:hidden;  color:#7C7C7C;}
+        .topRec_List dd{ float:left; text-align:center; color: #1C6193;}
+        .topRec_List dl dd span{display: inline-block;  width: 187px;border-right: none;background-color: aliceblue; line-height: 40px;  height: 40px;font-size: 18px}
+        .topRec_List dl dd .span{display: inline-block; width: 391px; height: 40px;}
+        .maquee{ height: 263px;  margin-right: 7px;  }
+        .topRec_List ul{ width:100%; height:195px;}
+        .topRec_List li{ width:100%; height:38px; line-height:38px; text-align:center; font-size:12px; }
+        /*.topRec_List li:nth-child(2n){ background:#077cd0}*/
+        .topRec_List li div{ float:left;}
+        .topRec_List li div a{color: #000}
+        .topRec_List li div:nth-child(1){ width:100%;}
+        .topRec_List li div a{color: #000;font-size: 14px;}
+        .foot .foot_z .pp .sp p a{color:#fff}
+        .foot .foot_z .pp .sp p a:hover{text-decoration: underline;}
+        .foot{width: 100%;background-color: #025291;}
+        .foot .foot_z .px{ height: 41px; text-align: center;line-height: 41px;color: #fbfbfb;border-bottom: 1px solid #f2f2f2}
+        .foot .foot_z .px p a{color:#fbfbfb}
+        .foot .foot_z .pp{height: 166px;margin: 0 auto;padding-top: 34px;width: 1242px;}
+
+.foot .foot_z .pp .tu{float: left;width: 359px;}
+.foot .foot_z .pp .sp{float: left;text-align: center;  line-height: 26px;  font-size: 14px;  color: #fbfbfb;width: 800px;}
+.foot .foot_z .pp .sp p{position: relative;}
+.foot .foot_z .pp .sp p img{position: absolute;left: 268px;  top: 3px;}
+.foot .foot_z .pp .jiguan{float: left;width: 383px;text-align: center}
+.foot .foot_z .pp .jiguan img:nth-last-child(1){margin-bottom: 7px;  margin-left: 17px;}
+    </style>
+<div class="foot" style="width: 100%; background-color: #025291; clear: both;    position: relative;">
+    <div class="foot_z" style="    clear: both;">
+  
+       
+
+ 
+       <div class="pp">
+            <div class="tu" style="width: 0; height: 100px;">
+             
+            </div>
+            <div class="sp sp1" style="width:800px;">
+                <p><a href="../../../../../"  target="_blank" >首页</a>&nbsp; ｜ &nbsp;
+                   <a href="../../../../../wzdt/" target="_blank">网站地图</a>&nbsp; ｜  &nbsp;
+                   <a href="../../../../../wzsm/" target="_blank">网站声明</a>&nbsp; ｜ &nbsp;
+                   <a href="../../../../../lxwm/" target="_blank">联系我们</a>&nbsp; ｜ &nbsp;
+                   <a href="../../../../../gywm/" target="_blank">关于我们</a>&nbsp;
+                </p>
+                <p>吕梁市人民政府办公室主办 &nbsp;&nbsp;吕梁市政府信息中心承办 &nbsp;&nbsp;技术支持：吕梁市政府信息中心</p>
+                <p>地址：吕梁市离石区永宁中路9号 &nbsp;&nbsp;</p>
+                <p>版权所有：吕梁市人民政府网&nbsp;&nbsp;<a href="http://beian.miit.gov.cn" style="color:#fff;" target="_blank">晋ICP备06004910号-1</a>&nbsp;&nbsp;网站标识码：1411000003</p>
+                <p><span><img src="../../../../../images/jinghui.png" style="left:270px;" /></span>
+                   <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=14110002000102" style="color:#fff;" target="_blank">晋公网安备 14110002000102号</a>
+                </p>
+<!--
+                <p>吕梁市人民政府办公室主办 &nbsp;&nbsp;吕梁市网络中心承办 &nbsp;&nbsp;晋ICP备06004910号-1&nbsp;&nbsp;网站标识码：1411000003</p>
+                <p>版权所有：吕梁市网络中心 &nbsp;&nbsp;电子邮箱：llszfbwlzx@163.com</p>
+
+-->
+            </div>
+
+            <span style="margin-left:30px;" >
+               <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/06/117/0000/60373093/CA061170000603730930001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+            </span>
+         <span style="position: absolute;top: 46px;margin-left: 30px;"><script id="_jiucuo_" sitecode='1411000003' src='../../../../../images/jiucuo.js'></script></span>
+
+       </div>
+
+    </div>
+</div>
+<script>
+    $(function(){
+        var $a = $("a");
+        $a.each(function(){
+            var url = $(this).attr("href");
+            if(url && url.indexOf("http:")>-1){
+                if(url.indexOf("http://www.lvliang.gov.cn") == -1 ){
+                    $(this).click(function(){
+                         if(confirm('您已跳出本网站，是否打开?')){ 
+                             return true; 
+                         } 
+                         return false; 
+                    });
+                }
+            }
+
+            if(url && url.indexOf("https:")>-1){
+                if(url.indexOf("http://www.lvliang.gov.cn") == -1 ){
+                    $(this).click(function(){
+                         if(confirm('您已跳出本网站，是否打开?')){ 
+                             return true; 
+                         } 
+                         return false; 
+                    });
+                }
+            }
+        });
+    })
+</script>
+<script id="_trs_ta_js" src="//ta.trs.cn/c/js/ta.js?mpid=1490" async="async" defer="defer"></script>
+<!--底部-->
+		<script type="text/javascript" src="../../../../../images/common.js"></script>
+
+		<!--底部-->
+	</body>
+	<script>
+		$(document).ready(function() {
+			$("#close").click(
+				function() {
+					$(this).parents(".w").css("display", "none")
+				}
+			)
+		});
+		$(document).ready(function() {
+
+
+			$('.xp').click(function() {
+				$(this).children('.dq1').css('display', 'block').parent('.xp').siblings().children('.dq1')
+					.css('display', 'none');
+			});
+
+			$(' .qqq').click(function() {
+				$(this).siblings('.ul').slideToggle(1000);
+			});
+			$(document).ready(function() {
+				$(".ye p .s").click(function() {
+					$(this).children("a").addClass("sp").parent().siblings().children("a")
+						.removeClass("sp");
+
+				});
+
+			});
+		});
+	</script>
+	<script src="../../../../../images/jquery.min.js" type="text/javascript"></script>
+	<script src="../../../../../images/layer.js" type="text/javascript"></script>
+	<script src="../../../../../images/jquery.qrcode.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$('#qrcodeCanvas').qrcode({
+			text: "http://www.lvliang.gov.cn/zjll/zyys/zsxm/xclcy/202307/t20230710_1775625.html",
+			width: 150,
+			height: 150
+		});
+	</script>
+</html>

@@ -1,0 +1,14 @@
+Server: BLB/23.08.4.1
+Date: Sun, 23 Feb 2025 11:19:52 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Access-Control-Allow-Methods: GET, PUT, DELETE, POST, GET, OPTIONS
+Access-Control-Allow-Credentials: true
+Referrer-Policy: no-referrer-when-downgrade
+X-Secng-Response: 0.003000020980835
+Set-Cookie: _xsrf=jcNy57w3DQA6ucG41D2UCHBd1XvAYsuf; path=/; domain=zhihu.com; expires=Thu, 12-Aug-27 11:19:52 GMT
+Content-Encoding: gzip
+X-Nws-Log-Uuid: 11419180170301223496
+X-Cache-Lookup: Cache Miss
+X-Edge-Timing: 0.063

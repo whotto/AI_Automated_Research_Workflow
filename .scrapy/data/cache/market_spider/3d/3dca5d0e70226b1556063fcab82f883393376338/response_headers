@@ -1,0 +1,19 @@
+Server: Tengine
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 23 Feb 2025 10:05:44 GMT
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Access-Control-Allow-Origin: https://cj.sina.cn
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Credentials: true
+Sn-Reqid: 705fd5f714ade66cdbea503738f51302
+Dpool_Header: caitou-sina-com-cn-57cb878f86-dzkjt
+X-Via-Ssl: ssl.22.sinag1.wq.lb.sinanode.com
+Via: cache63.l2cn2648[364,363,200-0,M], cache3.l2cn2648[365,0], cache14.cn8050[400,400,200-0,M], cache13.cn8050[404,0]
+Ali-Swift-Global-Savetime: 1740305144
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Sun, 23 Feb 2025 10:05:44 GMT
+X-Swift-Cachetime: 0
+X-Via-Cdn: f=aliyun,s=cache13.cn8050,c=240e:35f:986:601:a880:98db:5c0d:aaf6;
+Timing-Allow-Origin: *
+Eagleid: ded3dba117403051441412699e

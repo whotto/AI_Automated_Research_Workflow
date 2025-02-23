@@ -1,0 +1,20 @@
+Date: Sun, 23 Feb 2025 12:01:29 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: HWWAFSESID=5502d79d6814eb0020; path=/
+Set-Cookie: HWWAFSESTIME=1740312089310; path=/
+Set-Cookie: seid=s1740312089393; Expires=Mon, 24-Feb-25 12:01:29 GMT; Max-Age=86400; Domain=maimai.cn; Path=/
+Set-Cookie: guid=GxsdBBgYBBgaGwQeGFYcHBwcEh8fVg==; Expires=Fri, 28-Feb-25 12:01:29 GMT; Max-Age=432000; Domain=maimai.cn; Path=/
+Set-Cookie: n_csrf_token=lLdiNGPw-Z2O6wBlFFv81l_1VW0LnCjrNGt4; path=/
+Set-Cookie: n_csrf_token.sig=ZKybyalAhap7_i-qwvbsk_Wv6jo; path=/
+Set-Cookie: _buuid=AZGPyGalbYXDrVkKVlwyD; path=/; expires=Mon, 23 Feb 2026 12:01:29 GMT
+Set-Cookie: _buuid.sig=kJDFslkPYg-t5aJCZ00fc6ESl-Y; path=/; expires=Mon, 23 Feb 2026 12:01:29 GMT
+Set-Cookie: koa.sess=eyJzZWNyZXQiOiJmTGNlNDU3WXBIeUR6YWhTWmo4UTJXZzYiLCJjc3JmX3Rva2VuIjoibExkaU5HUHctWjJPNndCbEZGdjgxbF8xVlcwTG5DanJOR3Q0IiwiX2V4cGlyZSI6MTc0MDM5ODQ4OTM5NCwiX21heEFnZSI6ODY0MDAwMDB9; path=/
+Set-Cookie: koa.sess.sig=A-uIx0TjOJ6fLZ-WVKkMwABmbu8; path=/
+X-Powered-By: Next.js
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Etag: "hjzoz1fpmq3v1"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: CW

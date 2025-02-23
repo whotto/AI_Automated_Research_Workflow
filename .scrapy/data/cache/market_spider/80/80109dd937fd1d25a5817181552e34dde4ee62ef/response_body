@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Common/
+Disallow: /Article/
+Disallow: /Community/
+Disallow: /Service/
+Disallow: /Member/
+Disallow: /Home/
+Disallow: /Intelligence/
+Disallow: /?key=*
+Disallow: /?medium=*
+Disallow: /?key2=*
+
+Sitemap: https://www.dramx.com/sitemap.xml

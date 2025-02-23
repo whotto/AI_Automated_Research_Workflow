@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /market/template/correlation/
+Disallow: /market/view/
+
+User-agent: Sogou web spider/4.0
+Disallow: /
+
+User-agent: Sogou inst spider/4.0
+Disallow: /
+
+#User-agent: Googlebot
+#Crawl-delay: 10
+
+User-agent: Slurp
+Crawl-delay: 20
+
+User-agent: JikeSpider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /

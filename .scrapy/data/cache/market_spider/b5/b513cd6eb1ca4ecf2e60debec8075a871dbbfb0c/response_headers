@@ -1,0 +1,20 @@
+Server: openresty
+Date: Sun, 23 Feb 2025 10:06:15 GMT
+Content-Type: text/html; charset=utf-8
+Location: /dy/article/IVJ50DG2051480KF.html
+Expires: Sun, 23 Feb 2025 10:07:15 GMT
+Cache-Control: max-age=5
+Via: wap3g-nginx-online-7b498f6949-l89k7, [30,zone-hb-huangshi2-cache-15.in.ctcdn.cn], [56,edge-sn-shangluo2-cache-06.in.ctcdn.cn]
+Via: chuanmei-bgp2-dx-new.gy.ntes, [30,zone-hb-huangshi2-cache-15.in.ctcdn.cn], [56,edge-sn-shangluo2-cache-06.in.ctcdn.cn]
+Sn-Cache: MISS
+X-Envoy-Upstream-Service-Time: 1
+X_Cache: from chuanmei-bgp2-dx-new.gy.ntes
+X-Content-From: netease
+X-Horizon-Weight: 6245
+Age: 0
+Ctl-Cache-Status: MISS from hb-huangshi2-ca32, MISS from sn-shangluo2-ca01
+Request-Id: 8ee767baf3173db943f6b783255b750f
+Cdn-Source: chinatelecom
+Access-Control-Allow-Credentials: true
+Cdn-Ip: 61.185.142.244
+Cdn-User-Ip: 117.22.201.42

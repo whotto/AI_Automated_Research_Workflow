@@ -1,0 +1,29 @@
+# API配置
+openai:
+  api_key: ${OPENAI_API_KEY}
+
+# 爬虫配置
+spider:
+  user_agent_type: random
+  max_retries: 3
+  timeout: 30
+  concurrent_requests: 16
+  download_delay: 1
+
+# 数据处理配置
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+  min_content_length: 100
+
+# 模型配置
+model:
+  experiment_name: "market_trend"
+  session_id: 123
+  save_path: "models"
+
+# Dash应用配置
+dash:
+  host: "0.0.0.0"
+  port: 8050
+  debug: true

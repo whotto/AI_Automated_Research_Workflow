@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=utf-8
+Server: openresty
+Date: Sun, 23 Feb 2025 10:12:41 GMT
+X-Powered-By: Express
+Set-Cookie: g_traceId=352f68e0-45ee-4acf-beed-0e7aca2726c4; Max-Age=315360000; Path=/; secure; SameSite=Lax; Expires=Wed, 21 Feb 2035 10:12:39 GMT; SameSite=Strict
+Set-Cookie: g_conversationId=d2501; Path=/; secure; SameSite=Lax; SameSite=Strict
+Set-Cookie: glh_i18n_redirected=zh-cn; Path=/; secure; SameSite=Lax; Expires=Mon, 23 Feb 2026 10:12:39 GMT; SameSite=Lax
+X-Powered-By-Hostname: ssr-nuxt-koa-web-chart-644665d8bf-tdcbv
+X-Powered-Server-Init: 2025-02-23 18:00
+X-Powered-By-Ops: home-flying-cat
+X-Powered-By-Org: guru-fe
+X-Powered-Say: wish-you-safe-and-sound
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Ratelimit-Reset: 1740305620
+Etag: "5621d-otgtbB412fK3LIQWpFJ59WQ+eFc"
+Accept-Ranges: none
+Vary: Accept-Encoding
+Content-Encoding: gzip

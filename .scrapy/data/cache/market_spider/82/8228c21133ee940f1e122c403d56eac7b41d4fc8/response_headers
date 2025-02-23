@@ -1,0 +1,29 @@
+Bdpagetype: 3
+Bdqid: 0xa42b2934005ba1ff
+Cache-Control: private
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self' https://chat.baidu.com http://mirror-chat.baidu.com https://fj-chat.baidu.com https://hba-chat.baidu.com https://hbe-chat.baidu.com https://njjs-chat.baidu.com https://nj-chat.baidu.com https://hna-chat.baidu.com https://hnb-chat.baidu.com http://debug.baidu-int.com;
+Content-Type: text/html;charset=utf-8
+Cxy_All: news+d268da0ad8ad9907c767429ffe8461ac
+Cxy_Ex: 1740305270+717821557+d41d8cd98f00b204e9800998ecf8427e
+Date: Sun, 23 Feb 2025 10:07:50 GMT
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+Server: BWS/1.1
+Set-Cookie: BAIDUID=CB660D2FB8517F65C43ADF27799453AE:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: BIDUPSID=CB660D2FB8517F65C43ADF27799453AE; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: PSTM=1740305269; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com
+Set-Cookie: BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; path=/; domain=.baidu.com
+Set-Cookie: BAIDUID=CB660D2FB8517F65E6D23BD4D54BD859:FG=1; max-age=31536000; expires=Mon, 23-Feb-26 10:07:49 GMT; domain=.baidu.com; path=/; version=1; comment=bd
+Set-Cookie: H_PS_PSSID=61027_62114_62146_62167_62187_62180_62196_62227_62261; path=/; expires=Mon, 23-Feb-26 10:07:49 GMT; domain=.baidu.com
+Set-Cookie: X-Use-Search-BFF-WWW=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.baidu.com
+Set-Cookie: delPer=0; path=/; domain=.baidu.com
+Set-Cookie: BD_CK_SAM=1;path=/
+Set-Cookie: PSINO=6; domain=.baidu.com; path=/
+Set-Cookie: BDSVRTM=692; path=/
+Strict-Transport-Security: max-age=172800
+Traceid: 1740305270282255873011829594149539783167
+Vary: Accept-Encoding
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1;mode=block

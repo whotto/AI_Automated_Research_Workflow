@@ -1,0 +1,594 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="applicable-device" content="pc,mobile">
+    <meta name="format-detection" content="telephone=no,email=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords">
+    <meta name="description">
+    <meta name="image">
+
+    <link rel="stylesheet" type="text/css" href="/Content/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/Content/layout.css?v=20250223184333">
+    <link rel="stylesheet" type="text/css" href="/Content/login.css?v=20250223184333">
+    <link rel="shortcut icon" href="https://www.dramx.com/favicon.ico" type="image/x-icon" />
+
+
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JY4ERW7CN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0JY4ERW7CN');
+    </script>
+
+    
+    
+
+    <title>关键字搜寻结果-全球半导体观察</title>
+    <!--[if lt IE 9]>
+      <script>
+        document.createElement('nav');
+      </script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1991057826427406" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    
+    <!--页头开始-->
+    <!-- DX_cn_PC_H1 -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    window.googletag = window.googletag || { cmd: [] };
+    googletag.cmd.push(function () {
+        googletag.defineSlot('/23101350658/DX_CN_PC_All_H1_540x60', [540, 60], 'div-gpt-ad-1724384585347-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+<!--页头开始-->
+<div class="header-top">
+    <div class="container">
+        <div class="header-top-left">
+            <a rel="nofollow" target="_blank" href="//www.trendforce.cn/">集邦TrendForce</a>：
+            <a rel="nofollow" target="_blank" href="//www.dramx.com/">半导体研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.witsview.com/">显示器研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.ledinside.cn/">光电研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.energytrend.cn/">新能源研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.topology.com.cn/">通讯暨应用科技研究处</a>
+        </div>
+    </div>
+</div>
+<div class="top-box container">
+    <div class="top-logo">
+        <a href="/"><img src="/Images/top-logo.png"> </a>
+    </div>
+    <div class="top-banner">
+        <!-- 广告位：DX_cn_PC_H1 -->
+        <div id="DX_cn_PC_H1">
+            <!-- /23101350658/DX_CN_PC_All_H1_540x60 -->
+            <div id='div-gpt-ad-1724384585347-0' style='min-width: 540px; min-height: 60px;'>
+                <script>
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1724384585347-0'); });
+                </script>
+            </div>
+
+        </div>
+    </div>
+    <div class="form-wrapper mobile_display">
+        <input type="text" placeholder="请输入关键字" id="edit-query" name="word" onclick="if(this.value=='search'){this.value='';}" onkeydown="onkeySearch(event);">
+        <button type="button" class="btn btn-template-main" onclick="Index_BA_Search()"><i class="fa fa-search"></i></button>
+    </div>
+	
+    <div class="top-user">
+            <a class="register-button" onclick="window.location.href='/Member/Register'"><i></i>注册</a>
+            <a href="/Member/Login" class="login-button tc"><i></i>登录</a>
+
+
+    </div>
+	
+</div>
+<!--登录窗口-->
+<div id="gray"></div>
+
+<div class="clear"></div>
+<!--登录窗口 end-->
+<!--搜尋按鈕-->
+	<div class="description dropdown-Outder">
+						<a class="dropdown-toggle agenda_button"><span></span><img src="/Images/DX_CN-search_mobile_button-icon.png" alt=""></a>
+						<div class="dropdown-box">
+							<div class="form-wrapper">
+								<input type="text" placeholder="请输入关键字" id="" name="word" onclick="if(this.value=='search'){this.value='';}" onkeydown="onkeySearch(event);">
+								<button type="button" class="btn btn-template-main" onclick="Index_BA_Search()"><i class="fa fa-search"></i></button>
+							</div>
+						 </div>
+					 </div>	
+	<!--搜尋按鈕end-->
+<!--导航开始-->
+<div class="animenu">
+    <button class="animenu__toggle">
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+    </button>
+    <ul class="animenu__nav container">
+        <li><a href="/">首页</a></li>
+        <li>
+            <a href="/Info/" class="animenu_have_child">产业资讯</a><span class="animenu_toggle_mobile_arrow"></span>
+            <ul class="animenu__nav__child animenu_mobile_collapse">
+                <li><a href="/News/" >资讯</a></li>
+                <li><a href="/Market/">市场</a></li>
+                <li><a href="/Topic/">一周热点</a></li>
+                <li><a href="/chipnews/">深度芯闻</a></li>
+<!--
+                <li class="nav-click-li">
+                    <div class="nav_a_ul">专题</div>
+                    <ul class="nav_li_child">
+						<li><a href="/special/Foundry-2020" target="_blank">晶圆代工</a></li>
+						<li><a href="/special/Memory-2020" target="_blank">存储产业</a></li>
+					</ul>
+				</li>
+-->
+<!--                -->
+            </ul>
+        </li>
+		<li><a href="/Special/">深度专题</a></li>
+        <li class="Price_width">
+            <a href="/Price/" target="_blank" class="animenu_have_child">价格行情</a><span class="animenu_toggle_mobile_arrow"></span>
+                                                                                 <ul class="animenu__nav__child animenu_mobile_collapse">
+                                                                                     <li><a href="/Price/DSD.html">国际DRAM颗粒现货</a></li>
+                                                                                     <li><a href="/Price/FSD.html">国际Flash颗粒现货</a></li>
+                                                                                     <!-- -->
+                                                                                     <li><a href="/Price/WSD.html">Wafer现货价格</a></li>
+                                                                                     <li><a href="/Price/GDDR.html">GDDR现货价格</a></li>
+                                                                                     <li><a href="/Price/LPDDR.html">LPDDR现货价格</a></li>
+                                                                                     <li><a href="/Price/eSD.html">eMMC现货价格</a></li>
+                                                                                     <li><a href="/Price/MCSD.html">国际闪存卡现货</a></li>
+                                                                                     <li><a href="/Price/SSD.html">SSD国际终端价格 </a></li>
+                                                                                     <li><a href="/Price/DB.html">国内内存条现货大盘</a></li>
+                                                                                     <li><a href="/Price/CDD.html">国际DRAM合约价格 </a></li>
+                                                                                     <li><a href="/Price/NCFD.html">国际Flash合约价格</a></li>
+                                                                                     <li><a href="/Price/eMMCD.html">国际eMMC合约价格</a></li>
+                                                                                     <li><a href="/Price/MDD.html">国际Mobile DRAM合约价 </a></li>
+                                                                                     <li><a href="/Price/FWC.html">国际NAND Flash Wafer合约价格</a></li>
+                                                                                 </ul>
+        </li>
+        <li><a href="/report.html"  class="animenu_have_child">研究报告</a><span class="animenu_toggle_mobile_arrow"></span>
+            <ul class="animenu__nav__child animenu_mobile_collapse">
+                <li><a href="/report.html">制式报告</a></li>
+				<!-- 隱藏主題報告 2020-02-18
+                <!-- <li><a href="/Intelligence/china_semi">主题报告</a> </li>
+				-->
+                <li><a href="/Member/Membership">会员方案</a></li>
+                <li><a href="/research-report/">主题报告</a></li>
+            </ul>
+        </li>
+        <li><a href="/Knowledge/">知识库</a></li>
+<!--        -->
+		<li><a href="/Service/AppDownload">APP下载</a></li>
+		<li class="glowing_text">
+			<a rel="nofollow" href="/seminars.html" class="animenu_have_child ">
+				<!--<目前為了讓a連結失去效果，將class裡面加上link-disabled，class="link-disabled"，之後要開啟a連結效果，直接將link-disabled在class中刪除>-->
+			<span class="glowing_text_1">研</span>
+			<span class="glowing_text_2">讨</span>
+			<span class="glowing_text_3">会</span>
+<!--
+			<span class="glowing_text_4">2</span>
+			<span class="glowing_text_5">0</span>
+			<span class="glowing_text_6">2</span>
+			<span class="glowing_text_7">2</span>
+-->
+			<span class="tag tag-style-pointer tag-position-right tag-color-teal bounce-horizontal"><p>New</p></span>
+			</a>
+			<span class="animenu_toggle_mobile_arrow"></span>
+				<ul class="animenu__nav__child animenu_mobile_collapse">
+					<li class="nav-click-li"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-Outder，class="dropdown-Outder">-->
+						<div class="nav_a_ul"><span></span><a href="https://seminar.trendforce.cn/MTS/2025/GB/index/" target="_blank" rel="nofollow">MTS存储产业趋势峰会</a></div>
+						<ul class="nav_li_child hidden"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上 dropdown-box，class=" dropdown-box">-->
+							<li><a href="https://seminar.trendforce.cn/MTS/2023/GB/index/" target="_blank" rel="nofollow">MTS2023</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2022/GB/index/" target="_blank" rel="nofollow">MTS2022</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2021/GB/index/" target="_blank" rel="nofollow">MTS2021</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2020/GB/index/" target="_blank" rel="nofollow">MTS2020</a></li>
+						</ul>
+					</li>
+					<li class="nav-click-li"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-Outder，class="dropdown-Outder">-->
+						<div class="nav_a_ul"><span></span><a href="https://seminar.trendforce.cn/TSS/2024/GB/index/" target="_blank" rel="nofollow">TSS集邦咨询半导体峰会</a></div><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-toggle，class="dropdown-toggle">-->
+						<ul class="nav_li_child hidden"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上 dropdown-box，class=" dropdown-box">-->
+							<li><a href="https://seminar.trendforce.cn/TSS/2022/GB/index/" target="_blank" rel="nofollow">TSS2022</a></li>
+						</ul>
+					</li>
+
+            	</ul>
+			
+		</li>
+		
+    </ul>
+</div>
+<!--导航end-->
+
+<script type="text/javascript" src="/Scripts/jquery-1.12.4.min.js"></script>
+
+<!--mobile時menu由hover轉click效果-->
+<script type="text/javascript" src="/Scripts/animenu-mobile.js"></script>
+
+<!--關鍵字搜尋-->
+<script language="javascript" type="text/javascript">
+    function onkeySearch(e) {
+        if (e.keyCode == 13) {
+            Index_BA_Search();
+        }
+        else if (e.which == 13) {
+            Index_BA_Search();
+        }
+    }
+
+    function Index_BA_Search() {
+        var keyword = document.getElementById('edit-query').value;
+
+        if (!$(".dropdown-box").is(":hidden")) {
+            keyword = $(".dropdown-box input[name=word]").val();
+        }
+        keyword = keyword.trim();
+
+        if (keyword != '') {
+            window.open("/Search" + "/" + encodeURIComponent(keyword));
+        }
+        
+    }
+</script>
+
+<!--會員登入狀態-->
+<script>
+    $(function () {
+        /*登录*/
+        $(".lr_systembtn a").click(function () {
+            $(".lr_menu").slideToggle(200);
+        });
+    });
+</script>
+
+<!--強制所有連結都另開新視窗-->
+<script>
+    $(document).ready(function () {
+        $("a:not(#top)").attr('target', '_blank');
+    });
+</script>
+
+<!--=======mobile搜尋按鈕效果===========	-->
+<!--dropdown-toggle-->	
+<script>
+$('.dropdown-toggle').on('click', function(e){
+	  e.preventDefault();
+	  $(this).siblings('.dropdown-box').toggleClass('active');
+	  $(this).toggleClass('open');
+	})
+</script>
+	
+<!--=======mobile搜尋按鈕效果=end==========	-->	
+
+    <!--中间开始-->
+    
+
+
+<style>
+    .ES-result {
+        margin: 20px 0;
+    }
+</style>
+<div class="container">
+    <div class="ES-result">
+        <div>
+
+
+<div style="text-align:right; margin-top:10px;">
+    <font color="#818181">找到 <font color="#ff0000"><strong>行业发展趋势</strong></font> 相关文章 50 篇</font>
+</div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="芯联集成董事长、总经理赵奇：战略加码AI领域，聚焦三大增长极" href="https://www.dramx.com/News/made-sealing/20250219-38004.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    芯联集成董事长、总经理赵奇：战略加码AI领域，聚焦三大增长极
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2025-02-19 10:19:32</font></div>
+        <div style="margin-bottom:25px; ">
+            加速商业化进程。公司将紧跟<font color=#FF3333>行业发展趋势</font>，不断创新，并持续扩大为机器人新系统提供电源、电驱、传感等各种芯片。公司战略布局 AI 服务器电源、人...
+            <a href="https://www.dramx.com/News/made-sealing/20250219-38004.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="联芸科技披露招股意向书，将于11月18日开启申购" href="https://www.dramx.com/News/Memory/20241113-37442.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    联芸科技披露招股意向书，将于11月18日开启申购
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2024-11-13 09:56:07</font></div>
+        <div style="margin-bottom:25px; ">
+            另外“联芸科技数据管理芯片产业化基地项目”拟针对当前市场需求和<font color=#FF3333>行业发展趋势</font>，结合公司的业务布局及中长期发展规划重点开展新一代AIoT信号处理...
+            <a href="https://www.dramx.com/News/Memory/20241113-37442.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="倒计时5天 | EDA议题一网打尽：IDAS 2024峰会五大看点解密，报名从速" href="https://www.dramx.com/News/IC/20240918-37091.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    倒计时5天 | EDA议题一网打尽：IDAS 2024峰会五大看点解密，报名从速
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2024-09-18 16:35:35</font></div>
+        <div style="margin-bottom:25px; ">
+            系统展示<font color=#FF3333>行业发展趋势</font>。峰会设置十三个专题分论坛，汇聚百余名专家学者，围绕模拟、数字、化合物及存储等多个应用场景展开深入讨论，并结合人才培养、...
+            <a href="https://www.dramx.com/News/IC/20240918-37091.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="清溢光电拟募资12亿元投建高端半导体掩膜版基地等" href="https://www.dramx.com/News/cailiao-shebei/20240816-36880.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    清溢光电拟募资12亿元投建高端半导体掩膜版基地等
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2024-08-16 08:54:37</font></div>
+        <div style="margin-bottom:25px; ">
+            并且顺应<font color=#FF3333>行业发展趋势</font>及产业发展政策方向。通过实施高精度掩膜版生产基地建设项目一期，公司的高精度掩膜版产能将得到较大提升，有助于公司把握平板显...
+            <a href="https://www.dramx.com/News/cailiao-shebei/20240816-36880.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="砺戈秣马，踔厉奋发——第十八届慕尼黑上海光博会圆满闭幕" href="https://www.dramx.com/News/IC/20240325-35999.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    砺戈秣马，踔厉奋发——第十八届慕尼黑上海光博会圆满闭幕
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2024-03-25 16:42:03</font></div>
+        <div style="margin-bottom:25px; ">
+            慕尼黑上海光博会探索<font color=#FF3333>行业发展趋势</font>，集中展示涵盖激光智能制造、激光器与光电子、光学与光学制造、红外技术与应用、检测与质量控制五大版块的产品内容...
+            <a href="https://www.dramx.com/News/IC/20240325-35999.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="企业级SSD趋势与市场竞争，大普微如何看待？" href="https://www.dramx.com/News/Memory/20231121-35225.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    企业级SSD趋势与市场竞争，大普微如何看待？
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2023-11-21 13:51:09</font></div>
+        <div style="margin-bottom:25px; ">
+            企业级SSD将如何发展？未来<font color=#FF3333>行业发展趋势</font>如何？企业又将如何自处？围绕上述问题，近期，国内企业级SSD代表厂商——深圳大普微电子股份有限公司（...
+            <a href="https://www.dramx.com/News/Memory/20231121-35225.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="11场演讲、2场圆桌论坛、1份系列报告发布！芯师爷2023年度硬核芯大会圆满收官！" href="https://www.dramx.com/News/IC/20231031-35105.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    11场演讲、2场圆桌论坛、1份系列报告发布！芯师爷2023年度硬核芯大会圆满收官！
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2023-10-31 15:57:43</font></div>
+        <div style="margin-bottom:25px; ">
+            如何破局的企业战略部署。全球新能源汽车<font color=#FF3333>行业发展趋势</font>及对半导体产业的影响深圳市新能源汽车促进会副秘书长汪家红在演讲中，通过对比剖析全球新能源汽...
+            <a href="https://www.dramx.com/News/IC/20231031-35105.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="联想落子汽车芯片！" href="https://www.dramx.com/News/automotive-electronics/20231010-34961.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    联想落子汽车芯片！
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2023-10-10 11:08:46</font></div>
+        <div style="margin-bottom:25px; ">
+            汽车电子化已成为<font color=#FF3333>行业发展趋势</font>，同时，汽车电子的需求不断提升。针对中国汽车芯片发展情况，中国汽车芯片产业创新联盟秘书长原诚寅此前表示，我国汽车...
+            <a href="https://www.dramx.com/News/automotive-electronics/20231010-34961.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="“巨无霸”来袭，华虹公司登顶A股年内最大IPO" href="https://www.dramx.com/News/made-sealing/20230807-34583.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    “巨无霸”来袭，华虹公司登顶A股年内最大IPO
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2023-08-07 14:13:19</font></div>
+        <div style="margin-bottom:25px; ">
+            12英寸晶圆相关收入近三年的复合增长率为672.48%。因此公司按晶圆规格分类的收入结构变动符合<font color=#FF3333>行业发展趋势</font>。随着12英寸产线的上量，华虹公...
+            <a href="https://www.dramx.com/News/made-sealing/20230807-34583.html" target="_blank">[查看更多]</a>
+        </div>
+        <div style="clear:both;"></div>
+        <div style=" margin-bottom:5px; margin-top:5px;">
+            <a title="六大专题，创新碰撞，推动EDA技术与产业发展 ｜首届IDAS设计自动化产业峰会火热报名中！" href="https://www.dramx.com/News/IC/20230803-34566.html" target="_blank">
+                <font style="font-size:16px; text-decoration:underline ">
+                    六大专题，创新碰撞，推动EDA技术与产业发展 ｜首届IDAS设计自动化产业峰会火热报名中！
+                </font>
+            </a>
+        </div>
+        <div style="margin-bottom:5px; "><font color="#818181">2023-08-03 10:42:28</font></div>
+        <div style="margin-bottom:25px; ">
+            共同探索半导体<font color=#FF3333>行业发展趋势</font>和技术要素，是产业最新成果展示与交流合作平台。本次峰会预计邀请国内外300+半导体上下游企业、600+技术大咖、5...
+            <a href="https://www.dramx.com/News/IC/20230803-34566.html" target="_blank">[查看更多]</a>
+        </div>
+
+        </div>
+
+        <div class="jogger">
+            <span class='current'>1</span><a   href='/Search/行业发展趋势/2.html'>2</a><a   href='/Search/行业发展趋势/3.html'>3</a><a   href='/Search/行业发展趋势/4.html'>4</a><a   href='/Search/行业发展趋势/5.html'>5</a><a   href='/Search/行业发展趋势/2.html'>&gt;</a> 
+        </div>
+    </div>
+</div>
+
+
+    <!--页脚开始-->
+    <!--页脚开始-->
+<div class="footer">
+    <div class="container">
+        <div class="footer-left">
+            <div class="footer-list">
+                <div class="Noshow"><a href="/Service/About_Us">关于我们</a>|<a href="/Service/Terms_of_use">使用条款</a>|<a href="/Service/Privacy_policy">隐私权政策</a>|<a href="/Service/AD">广告刊登</a>|<a href="/Service/Contact">联系我们</a>|<a href="/Service/FAQ">常见问题</a><br /></div>
+                <div class="show"><a href="/Service/About_Us">关于我们</a>|<a href="/Service/Terms_of_use">使用条款</a>|<a href="/Service/AD">广告刊登</a><br /></div>
+                <span>© 2025 DRAMeXchange, a Business Division of TrendForce Corp. 全球半导体观察 集邦咨询顾问（深圳）有限公司 版权所有 不得转载 </span>
+            </div>
+        </div>
+        <div class="footer-right">
+            <div class="footer-right-cont">
+                <div class="footer-wechat"><img src="/Images/wechat.jpg">微信公众平台</div>
+            </div>
+        </div>
+
+        <div style="width:300px;margin:0 auto; padding:20px 0;">
+            <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030402006426"
+               style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" rel="nofollow">
+                <img src="/Images/record-icon.png" style="float: left; height: 20px; width:20px;" />
+                <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">粤公网安备 44030402006426号</p>
+            </a>
+        </div>
+
+        <div style="clear: both;text-align: center;margin-top: 5px;height: 30px;margin-bottom: 10px;" class="footer-list">
+            <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">粤ICP备12036366号-3</a>
+        </div>
+    </div>
+</div>
+
+
+<!--微信分享-->
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    $(document).ready(function () {
+        wechatConfig();
+    });
+
+    function wechatConfig() {
+
+        $.ajax({
+            url: '/Services/WeChatSDK.ashx',
+            dataType: "json",
+            method: "POST",
+            data: {
+                Source: "share",
+                url: location.href.split('#')[0]
+            },
+            success: function (data) {
+
+                console.log(data);
+                //如果meta沒有圖片，就顯示logo
+                var urlRegex = new RegExp('(https://)([A-Za-z0-9]+)');
+                var image = '';
+                if (!urlRegex.test(document.head.querySelector("meta[name=image]").content)) {
+                    image = 'https://img.dramx.com/DX-top-logo.jpg';
+                }
+                else {
+                    image = document.head.querySelector("meta[name=image]").content;
+                }
+                console.log(image);
+
+                if (data && Object.keys(data).length > 0) {
+                    wx.config({
+                        debug: false,
+                        appId: data[0].appId,
+                        timestamp: data[0].timestamp,
+                        nonceStr: data[0].nonceStr,
+                        signature: data[0].signature,
+                        jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage']
+                    });
+                }
+
+                wx.ready(function () {
+                    //分享給微信朋友
+                    wx.onMenuShareAppMessage({
+
+                        title: document.title, // 分享标题
+
+                        desc: document.head.querySelector("meta[name=description]").content, // 分享描述
+
+                        link: location.href.split('#')[0], // 分享链接
+
+                        imgUrl: image, // 分享图标
+
+                        type: 'link', // 分享类型,music、video或link，不填默认为link
+
+                        dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+
+                        success: function () {
+                            //alert("分享成功！");
+                        },
+                        cancel: function () {
+                            // 用户取消分享后执行的回调函数
+                        }
+                    });
+
+                    //分享到微信朋友圈
+                    wx.onMenuShareTimeline({
+                        title: document.title, // 分享标题
+
+                        desc: document.head.querySelector("meta[name=description]").content, // 分享描述
+
+                        link: location.href.split('#')[0].split('?')[0], // 分享链接
+
+                        imgUrl: image, // 分享图标
+                        success: function (res) {
+                        },
+                        cancel: function (res) {
+                        },
+                        fail: function (res) {
+                        }
+                    });
+
+                    wx.error(function (res) {
+                        alert(JSON.stringify(res));
+                        // config信息验证失败会执行error函数，如签名过期导致验证失败
+                    });
+                });
+
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                //alert(xhr);
+                //alert(ajaxOptions);
+                //alert(thrownError);
+            }
+        });
+    }
+</script>
+
+
+    <!--返回项部-->
+    <div class="toolbar">
+        <a href="javascript:window.scrollTo(0, 0);" id="top" class="toolbar-item toolbar-item-top"></a>
+    </div>
+    <script src="/Scripts/animenu.js"></script>
+    
+
+
+    
+</body>
+</html>
+
+
+<!--百度SSP的js-->
+<script src="//dup.baidustatic.com/js/ds.js"></script>
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = ['htt', 'ps://', 'hm', '.bai', 'du.', 'com', '/h', 'm.js?', '5a7e9de0d79ecdad', '33ee524a3e8120ce'].join('');
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>

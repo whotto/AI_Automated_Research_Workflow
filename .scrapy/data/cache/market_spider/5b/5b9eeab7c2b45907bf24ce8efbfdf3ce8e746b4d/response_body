@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /?bd_vid=
+Disallow: /?_url=
+Disallow: /?contentid=
+Disallow: /docs/
+Disallow: /buy/
+Disallow: /cover/
+Disallow: /assets/images/about/board/

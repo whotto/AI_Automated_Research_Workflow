@@ -1,0 +1,26 @@
+Date: Sun, 23 Feb 2025 10:11:03 GMT
+Content-Type: text/html;charset=UTF-8
+Server: openresty
+Vary: Accept-Encoding
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+Access-Control-Allow-Headers: Origin,Content-Type,authorization,Accept,token,X-Requested-With
+Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE
+Access-Control-Expose-Headers: Origin,Access-Control-Request-Method,Access-Control-Request-Headers,X-forwared-port,X-forwarded-host
+Gateway-Forwarding: prod-txy7
+Access-Time: 1740305463125
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Credentials: true
+Content-Language: zh-CN
+X-From-Sohu: X-SRC-Source
+Strict-Transport-Security: max-age=86400;preload
+Referrer-Policy: no-referrer-when-downgrade
+S-Req-Id: 15943741620923442277
+S-Req-Type: 0
+X-Cache-Lookup: Cache Miss
+X-Cache-Lookup: Cache Miss
+Content-Encoding: gzip
+Cache-Control: max-age=300
+Accept-Ranges: bytes
+X-Nws-Log-Uuid: 15943741620923442277
+Server-Timing: cdn-cache;desc=miss, edge;dur=1, origin;dur=80

@@ -1,0 +1,10 @@
+Server: nginx
+Date: Sun, 23 Feb 2025 11:48:15 GMT
+Content-Type: text/html; charset=UTF-8
+X-Ratelimit-Limit: 300
+X-Ratelimit-Remaining: 299
+X-Ratelimit-Reset: 5
+X-Powered-By: PHP/7.4.33
+Cache-Control: no-cache, private
+Set-Cookie: yg_server_web_session=eyJpdiI6IldoVUNCSHk4WkZxcEZaOVZhbTVwU3c9PSIsInZhbHVlIjoiVVg4QlFPK2lUVituand5RFdrMy96b1ZjdWJSMklkSS9IbXh2SmNSM0FMUHlhSUNOVkdISTczQi91ME16dkI0OHB2d05aMElCSkZXOXN1VVIrZUVKYnl2R0loTnpibUJpRit0TDBEeGVZS2U5WHZtZlZvWHRhd2crLzFKYm1DQ3EiLCJtYWMiOiI5ZDhkNGVjZGQ5ZjNmOTI2ZGIyNjI0ZTgyYzcxZjkwNzdlYjMxZGYwZGQwZGYwNGNmNzYzZGQ1ZWExMmQzYTc1IiwidGFnIjoiIn0%3D; expires=Sun, 23-Feb-2025 13:48:15 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Content-Encoding: gzip

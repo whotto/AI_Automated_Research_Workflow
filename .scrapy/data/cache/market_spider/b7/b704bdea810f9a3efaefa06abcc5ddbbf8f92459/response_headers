@@ -1,0 +1,25 @@
+Date: Sun, 23 Feb 2025 10:22:25 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Sun, 23 Feb 2025 10:24:25 GMT
+Server-Info: tencent-c
+Devicetype: pc
+Access-Control-Allow-Methods: PUT, POST, GET, DELETE, OPTIONS
+Access-Control-Allow-Headers: *
+Hostname: web-pages-content-prod-dpt-6dd896d4df-gvrpb
+Access-Control-Allow-Origin: *
+Uuid: c2f4c13862724aedba7349ba564a5a47
+Appname: content/articlePc
+Shankrouter: shank_router_test63v17_qcloud
+Content-Security-Policy: upgrade-insecure-requests
+Server: Lego Server
+X-Cache-Lookup: Cache Miss
+X-Cache-Lookup: Hit From Upstream Cluster
+X-Cache-Lookup: Hit From Inner Cluster
+X-Cache-Lookup: Cache Miss
+Last-Modified: Sun, 23 Feb 2025 10:22:25 GMT
+Content-Encoding: gzip
+Cache-Control: max-age=120
+Age: 0
+Accept-Ranges: bytes
+X-Nws-Log-Uuid: 8673398269501017241

@@ -1,0 +1,12 @@
+Server: nginx/1.24.0 (Ubuntu)
+Date: Sun, 23 Feb 2025 01:11:36 GMT
+Content-Type: text/html; charset=utf-8
+Searchparams: keyword=%E7%A7%91%E5%AD%A6%E4%BB%AA%E5%99%A8%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1+%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A
+X-Pathname: /search
+X-Search: ?keyword=%E7%A7%91%E5%AD%A6%E4%BB%AA%E5%99%A8%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1+%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A
+X-Start-Time: 1740273096569
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+X-Powered-By: Next.js
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

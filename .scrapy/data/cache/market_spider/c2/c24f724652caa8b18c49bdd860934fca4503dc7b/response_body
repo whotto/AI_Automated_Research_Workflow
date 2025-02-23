@@ -1,0 +1,477 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="applicable-device" content="pc,mobile">
+    <meta name="format-detection" content="telephone=no,email=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords">
+    <meta name="description">
+    <meta name="image">
+
+    <link rel="stylesheet" type="text/css" href="/Content/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/Content/layout.css?v=20250223154503">
+    <link rel="stylesheet" type="text/css" href="/Content/login.css?v=20250223154503">
+    <link rel="shortcut icon" href="https://www.dramx.com/favicon.ico" type="image/x-icon" />
+
+
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JY4ERW7CN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0JY4ERW7CN');
+    </script>
+
+    
+    
+
+    <title>关键字搜寻结果-全球半导体观察</title>
+    <!--[if lt IE 9]>
+      <script>
+        document.createElement('nav');
+      </script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1991057826427406" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    
+    <!--页头开始-->
+    <!-- DX_cn_PC_H1 -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    window.googletag = window.googletag || { cmd: [] };
+    googletag.cmd.push(function () {
+        googletag.defineSlot('/23101350658/DX_CN_PC_All_H1_540x60', [540, 60], 'div-gpt-ad-1724384585347-0').addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+<!--页头开始-->
+<div class="header-top">
+    <div class="container">
+        <div class="header-top-left">
+            <a rel="nofollow" target="_blank" href="//www.trendforce.cn/">集邦TrendForce</a>：
+            <a rel="nofollow" target="_blank" href="//www.dramx.com/">半导体研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.witsview.com/">显示器研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.ledinside.cn/">光电研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.energytrend.cn/">新能源研究处</a>|
+            <a rel="nofollow" target="_blank" href="//www.topology.com.cn/">通讯暨应用科技研究处</a>
+        </div>
+    </div>
+</div>
+<div class="top-box container">
+    <div class="top-logo">
+        <a href="/"><img src="/Images/top-logo.png"> </a>
+    </div>
+    <div class="top-banner">
+        <!-- 广告位：DX_cn_PC_H1 -->
+        <div id="DX_cn_PC_H1">
+            <!-- /23101350658/DX_CN_PC_All_H1_540x60 -->
+            <div id='div-gpt-ad-1724384585347-0' style='min-width: 540px; min-height: 60px;'>
+                <script>
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1724384585347-0'); });
+                </script>
+            </div>
+
+        </div>
+    </div>
+    <div class="form-wrapper mobile_display">
+        <input type="text" placeholder="请输入关键字" id="edit-query" name="word" onclick="if(this.value=='search'){this.value='';}" onkeydown="onkeySearch(event);">
+        <button type="button" class="btn btn-template-main" onclick="Index_BA_Search()"><i class="fa fa-search"></i></button>
+    </div>
+	
+    <div class="top-user">
+            <a class="register-button" onclick="window.location.href='/Member/Register'"><i></i>注册</a>
+            <a href="/Member/Login" class="login-button tc"><i></i>登录</a>
+
+
+    </div>
+	
+</div>
+<!--登录窗口-->
+<div id="gray"></div>
+
+<div class="clear"></div>
+<!--登录窗口 end-->
+<!--搜尋按鈕-->
+	<div class="description dropdown-Outder">
+						<a class="dropdown-toggle agenda_button"><span></span><img src="/Images/DX_CN-search_mobile_button-icon.png" alt=""></a>
+						<div class="dropdown-box">
+							<div class="form-wrapper">
+								<input type="text" placeholder="请输入关键字" id="" name="word" onclick="if(this.value=='search'){this.value='';}" onkeydown="onkeySearch(event);">
+								<button type="button" class="btn btn-template-main" onclick="Index_BA_Search()"><i class="fa fa-search"></i></button>
+							</div>
+						 </div>
+					 </div>	
+	<!--搜尋按鈕end-->
+<!--导航开始-->
+<div class="animenu">
+    <button class="animenu__toggle">
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+    </button>
+    <ul class="animenu__nav container">
+        <li><a href="/">首页</a></li>
+        <li>
+            <a href="/Info/" class="animenu_have_child">产业资讯</a><span class="animenu_toggle_mobile_arrow"></span>
+            <ul class="animenu__nav__child animenu_mobile_collapse">
+                <li><a href="/News/" >资讯</a></li>
+                <li><a href="/Market/">市场</a></li>
+                <li><a href="/Topic/">一周热点</a></li>
+                <li><a href="/chipnews/">深度芯闻</a></li>
+<!--
+                <li class="nav-click-li">
+                    <div class="nav_a_ul">专题</div>
+                    <ul class="nav_li_child">
+						<li><a href="/special/Foundry-2020" target="_blank">晶圆代工</a></li>
+						<li><a href="/special/Memory-2020" target="_blank">存储产业</a></li>
+					</ul>
+				</li>
+-->
+<!--                -->
+            </ul>
+        </li>
+		<li><a href="/Special/">深度专题</a></li>
+        <li class="Price_width">
+            <a href="/Price/" target="_blank" class="animenu_have_child">价格行情</a><span class="animenu_toggle_mobile_arrow"></span>
+                                                                                 <ul class="animenu__nav__child animenu_mobile_collapse">
+                                                                                     <li><a href="/Price/DSD.html">国际DRAM颗粒现货</a></li>
+                                                                                     <li><a href="/Price/FSD.html">国际Flash颗粒现货</a></li>
+                                                                                     <!-- -->
+                                                                                     <li><a href="/Price/WSD.html">Wafer现货价格</a></li>
+                                                                                     <li><a href="/Price/GDDR.html">GDDR现货价格</a></li>
+                                                                                     <li><a href="/Price/LPDDR.html">LPDDR现货价格</a></li>
+                                                                                     <li><a href="/Price/eSD.html">eMMC现货价格</a></li>
+                                                                                     <li><a href="/Price/MCSD.html">国际闪存卡现货</a></li>
+                                                                                     <li><a href="/Price/SSD.html">SSD国际终端价格 </a></li>
+                                                                                     <li><a href="/Price/DB.html">国内内存条现货大盘</a></li>
+                                                                                     <li><a href="/Price/CDD.html">国际DRAM合约价格 </a></li>
+                                                                                     <li><a href="/Price/NCFD.html">国际Flash合约价格</a></li>
+                                                                                     <li><a href="/Price/eMMCD.html">国际eMMC合约价格</a></li>
+                                                                                     <li><a href="/Price/MDD.html">国际Mobile DRAM合约价 </a></li>
+                                                                                     <li><a href="/Price/FWC.html">国际NAND Flash Wafer合约价格</a></li>
+                                                                                 </ul>
+        </li>
+        <li><a href="/report.html"  class="animenu_have_child">研究报告</a><span class="animenu_toggle_mobile_arrow"></span>
+            <ul class="animenu__nav__child animenu_mobile_collapse">
+                <li><a href="/report.html">制式报告</a></li>
+				<!-- 隱藏主題報告 2020-02-18
+                <!-- <li><a href="/Intelligence/china_semi">主题报告</a> </li>
+				-->
+                <li><a href="/Member/Membership">会员方案</a></li>
+                <li><a href="/research-report/">主题报告</a></li>
+            </ul>
+        </li>
+        <li><a href="/Knowledge/">知识库</a></li>
+<!--        -->
+		<li><a href="/Service/AppDownload">APP下载</a></li>
+		<li class="glowing_text">
+			<a rel="nofollow" href="/seminars.html" class="animenu_have_child ">
+				<!--<目前為了讓a連結失去效果，將class裡面加上link-disabled，class="link-disabled"，之後要開啟a連結效果，直接將link-disabled在class中刪除>-->
+			<span class="glowing_text_1">研</span>
+			<span class="glowing_text_2">讨</span>
+			<span class="glowing_text_3">会</span>
+<!--
+			<span class="glowing_text_4">2</span>
+			<span class="glowing_text_5">0</span>
+			<span class="glowing_text_6">2</span>
+			<span class="glowing_text_7">2</span>
+-->
+			<span class="tag tag-style-pointer tag-position-right tag-color-teal bounce-horizontal"><p>New</p></span>
+			</a>
+			<span class="animenu_toggle_mobile_arrow"></span>
+				<ul class="animenu__nav__child animenu_mobile_collapse">
+					<li class="nav-click-li"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-Outder，class="dropdown-Outder">-->
+						<div class="nav_a_ul"><span></span><a href="https://seminar.trendforce.cn/MTS/2025/GB/index/" target="_blank" rel="nofollow">MTS存储产业趋势峰会</a></div>
+						<ul class="nav_li_child hidden"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上 dropdown-box，class=" dropdown-box">-->
+							<li><a href="https://seminar.trendforce.cn/MTS/2023/GB/index/" target="_blank" rel="nofollow">MTS2023</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2022/GB/index/" target="_blank" rel="nofollow">MTS2022</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2021/GB/index/" target="_blank" rel="nofollow">MTS2021</a></li>
+							<li><a href="https://seminar.trendforce.cn/MTS/2020/GB/index/" target="_blank" rel="nofollow">MTS2020</a></li>
+						</ul>
+					</li>
+					<li class="nav-click-li"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-Outder，class="dropdown-Outder">-->
+						<div class="nav_a_ul"><span></span><a href="https://seminar.trendforce.cn/TSS/2024/GB/index/" target="_blank" rel="nofollow">TSS集邦咨询半导体峰会</a></div><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上dropdown-toggle，class="dropdown-toggle">-->
+						<ul class="nav_li_child hidden"><!--<點擊後讓第二層開啟第三層的效果，將class裡面加上 dropdown-box，class=" dropdown-box">-->
+							<li><a href="https://seminar.trendforce.cn/TSS/2022/GB/index/" target="_blank" rel="nofollow">TSS2022</a></li>
+						</ul>
+					</li>
+
+            	</ul>
+			
+		</li>
+		
+    </ul>
+</div>
+<!--导航end-->
+
+<script type="text/javascript" src="/Scripts/jquery-1.12.4.min.js"></script>
+
+<!--mobile時menu由hover轉click效果-->
+<script type="text/javascript" src="/Scripts/animenu-mobile.js"></script>
+
+<!--關鍵字搜尋-->
+<script language="javascript" type="text/javascript">
+    function onkeySearch(e) {
+        if (e.keyCode == 13) {
+            Index_BA_Search();
+        }
+        else if (e.which == 13) {
+            Index_BA_Search();
+        }
+    }
+
+    function Index_BA_Search() {
+        var keyword = document.getElementById('edit-query').value;
+
+        if (!$(".dropdown-box").is(":hidden")) {
+            keyword = $(".dropdown-box input[name=word]").val();
+        }
+        keyword = keyword.trim();
+
+        if (keyword != '') {
+            window.open("/Search" + "/" + encodeURIComponent(keyword));
+        }
+        
+    }
+</script>
+
+<!--會員登入狀態-->
+<script>
+    $(function () {
+        /*登录*/
+        $(".lr_systembtn a").click(function () {
+            $(".lr_menu").slideToggle(200);
+        });
+    });
+</script>
+
+<!--強制所有連結都另開新視窗-->
+<script>
+    $(document).ready(function () {
+        $("a:not(#top)").attr('target', '_blank');
+    });
+</script>
+
+<!--=======mobile搜尋按鈕效果===========	-->
+<!--dropdown-toggle-->	
+<script>
+$('.dropdown-toggle').on('click', function(e){
+	  e.preventDefault();
+	  $(this).siblings('.dropdown-box').toggleClass('active');
+	  $(this).toggleClass('open');
+	})
+</script>
+	
+<!--=======mobile搜尋按鈕效果=end==========	-->	
+
+    <!--中间开始-->
+    
+
+
+<style>
+    .ES-result {
+        margin: 20px 0;
+    }
+</style>
+<div class="container">
+    <div class="ES-result">
+        <div>
+
+
+<div style="text-align:right; margin-top:10px;">
+    <font color="#818181">找到 <font color="#ff0000"><strong>学术文献</strong></font> 相关文章 0 篇</font>
+</div>
+    <div style="clear:both;"></div>
+    <div class="nosearch">
+		<div class="search_no_img"><img src="/Images/search_no_600x400.png" alt=""></div>
+		<div class="search_no_word" style="">
+			<span>对不起，没有找到相关结果</span><br>
+			建议您可以：<br>
+			<ul>
+				<li>确认输入的关键词是否有误</li>
+				<li>去掉可能不必要的字词，如“的”、“什么”等</li>
+				<li>尝试使用相近、相同或其它语义的关键词</li>
+			</ul>
+		</div>
+	</div>	
+
+        </div>
+
+        <div class="jogger">
+            
+        </div>
+    </div>
+</div>
+
+
+    <!--页脚开始-->
+    <!--页脚开始-->
+<div class="footer">
+    <div class="container">
+        <div class="footer-left">
+            <div class="footer-list">
+                <div class="Noshow"><a href="/Service/About_Us">关于我们</a>|<a href="/Service/Terms_of_use">使用条款</a>|<a href="/Service/Privacy_policy">隐私权政策</a>|<a href="/Service/AD">广告刊登</a>|<a href="/Service/Contact">联系我们</a>|<a href="/Service/FAQ">常见问题</a><br /></div>
+                <div class="show"><a href="/Service/About_Us">关于我们</a>|<a href="/Service/Terms_of_use">使用条款</a>|<a href="/Service/AD">广告刊登</a><br /></div>
+                <span>© 2025 DRAMeXchange, a Business Division of TrendForce Corp. 全球半导体观察 集邦咨询顾问（深圳）有限公司 版权所有 不得转载 </span>
+            </div>
+        </div>
+        <div class="footer-right">
+            <div class="footer-right-cont">
+                <div class="footer-wechat"><img src="/Images/wechat.jpg">微信公众平台</div>
+            </div>
+        </div>
+
+        <div style="width:300px;margin:0 auto; padding:20px 0;">
+            <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030402006426"
+               style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" rel="nofollow">
+                <img src="/Images/record-icon.png" style="float: left; height: 20px; width:20px;" />
+                <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">粤公网安备 44030402006426号</p>
+            </a>
+        </div>
+
+        <div style="clear: both;text-align: center;margin-top: 5px;height: 30px;margin-bottom: 10px;" class="footer-list">
+            <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">粤ICP备12036366号-3</a>
+        </div>
+    </div>
+</div>
+
+
+<!--微信分享-->
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    $(document).ready(function () {
+        wechatConfig();
+    });
+
+    function wechatConfig() {
+
+        $.ajax({
+            url: '/Services/WeChatSDK.ashx',
+            dataType: "json",
+            method: "POST",
+            data: {
+                Source: "share",
+                url: location.href.split('#')[0]
+            },
+            success: function (data) {
+
+                console.log(data);
+                //如果meta沒有圖片，就顯示logo
+                var urlRegex = new RegExp('(https://)([A-Za-z0-9]+)');
+                var image = '';
+                if (!urlRegex.test(document.head.querySelector("meta[name=image]").content)) {
+                    image = 'https://img.dramx.com/DX-top-logo.jpg';
+                }
+                else {
+                    image = document.head.querySelector("meta[name=image]").content;
+                }
+                console.log(image);
+
+                if (data && Object.keys(data).length > 0) {
+                    wx.config({
+                        debug: false,
+                        appId: data[0].appId,
+                        timestamp: data[0].timestamp,
+                        nonceStr: data[0].nonceStr,
+                        signature: data[0].signature,
+                        jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage']
+                    });
+                }
+
+                wx.ready(function () {
+                    //分享給微信朋友
+                    wx.onMenuShareAppMessage({
+
+                        title: document.title, // 分享标题
+
+                        desc: document.head.querySelector("meta[name=description]").content, // 分享描述
+
+                        link: location.href.split('#')[0], // 分享链接
+
+                        imgUrl: image, // 分享图标
+
+                        type: 'link', // 分享类型,music、video或link，不填默认为link
+
+                        dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+
+                        success: function () {
+                            //alert("分享成功！");
+                        },
+                        cancel: function () {
+                            // 用户取消分享后执行的回调函数
+                        }
+                    });
+
+                    //分享到微信朋友圈
+                    wx.onMenuShareTimeline({
+                        title: document.title, // 分享标题
+
+                        desc: document.head.querySelector("meta[name=description]").content, // 分享描述
+
+                        link: location.href.split('#')[0].split('?')[0], // 分享链接
+
+                        imgUrl: image, // 分享图标
+                        success: function (res) {
+                        },
+                        cancel: function (res) {
+                        },
+                        fail: function (res) {
+                        }
+                    });
+
+                    wx.error(function (res) {
+                        alert(JSON.stringify(res));
+                        // config信息验证失败会执行error函数，如签名过期导致验证失败
+                    });
+                });
+
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                //alert(xhr);
+                //alert(ajaxOptions);
+                //alert(thrownError);
+            }
+        });
+    }
+</script>
+
+
+    <!--返回项部-->
+    <div class="toolbar">
+        <a href="javascript:window.scrollTo(0, 0);" id="top" class="toolbar-item toolbar-item-top"></a>
+    </div>
+    <script src="/Scripts/animenu.js"></script>
+    
+
+
+    
+</body>
+</html>
+
+
+<!--百度SSP的js-->
+<script src="//dup.baidustatic.com/js/ds.js"></script>
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = ['htt', 'ps://', 'hm', '.bai', 'du.', 'com', '/h', 'm.js?', '5a7e9de0d79ecdad', '33ee524a3e8120ce'].join('');
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>

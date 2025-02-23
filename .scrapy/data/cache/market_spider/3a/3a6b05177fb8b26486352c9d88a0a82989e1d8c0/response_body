@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>iresearch-洞察互联网的力量</title>
+<meta name="keywords" content="艾瑞网,艾瑞咨询,新经济门户,互联网数据资讯">
+<meta name="description" content="艾瑞网聚合互联网数据资讯,融合互联网行业资源">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<link rel="stylesheet" href="/include/public/css/base.css"/>
+    <link rel="shortcut icon" href="/include/public/images/favicon.ico" />
+    <link rel="apple-touch-icon" href="/include/public/images/touchicon.png" />
+
+
+</head>
+
+<body class="page-404">
+<div class="g-404">
+    <!-- 页面头部 -->
+    <div class="g-hd"></div>
+    <!-- 页面头部 end-->
+
+    <!-- 页面主体部分 -->
+    <div class="g-bd f-mt-auto">
+        <div class="box-404">
+        	<img src="/include/public/images/404.jpg" border="0" usemap="#Map" class="img404">
+            <map name="Map">
+                <area title="重新搜索" shape="rect" coords="544,326,640,363" href="http://www.iresearch.cn">
+              <area title="返回首页" shape="rect" coords="649,328,751,364" href="http://www.iresearch.cn">
+            </map>
+        </div>
+    </div>
+    <!-- 页面主体部分 end-->
+
+    <!-- 页面底部 -->
+    <div class="g-ft"></div>
+    <!-- 页面底部 end-->
+</div>
+
+<!-- 返回顶部 -->
+<div id="topcontrol"></div>
+<!-- 返回顶部 end-->
+</body>
+</html>

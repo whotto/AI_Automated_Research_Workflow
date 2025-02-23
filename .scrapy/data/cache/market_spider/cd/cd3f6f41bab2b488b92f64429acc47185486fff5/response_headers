@@ -1,0 +1,18 @@
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Date: Sun, 23 Feb 2025 11:48:44 GMT
+Cache-Control: max-age=43200
+Via: ali com main02, cache72.l2cn3160[294,293,200-0,M], cache62.l2cn3160[297,0], vcache10.cn6691[328,328,200-0,M], vcache9.cn6691[335,0]
+Expires: Sun, 23 Feb 2025 23:48:44 GMT
+Last-Modified: Sun, 23 Feb 2025 11:48:44 GMT
+X-Aspnet-Version: 4.0.30319
+Via1: nginx com01
+Ali-Swift-Global-Savetime: 1740311324
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Sun, 23 Feb 2025 11:48:44 GMT
+X-Swift-Cachetime: 43200
+Timing-Allow-Origin: *
+Eagleid: 0152e81d17403113237701460e
+Content-Encoding: gzip

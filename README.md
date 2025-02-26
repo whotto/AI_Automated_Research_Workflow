@@ -2,7 +2,7 @@
 
 **版本号：** 1.2.0
 
-![市场研究助手](https://via.placeholder.com/800x400/2f81ed/ffffff?text=智研数析)
+![市场研究助手](assets/images/banner.png)
 
 ## 🔍 简介
 
@@ -30,7 +30,7 @@
 需求分析 → 数据采集 → 数据处理 → 内容生成 → 可视化创建 → 整合报告
 ```
 
-![工作流程图](https://via.placeholder.com/800x200/e9f7fe/333333?text=智研数析工作流)
+![工作流程图](assets/images/workflow.png)
 
 1. **需求分析**：智能解析您的研究需求，确定关键研究维度和数据点
 2. **数据采集**：自动从多个来源收集相关行业数据和市场信息

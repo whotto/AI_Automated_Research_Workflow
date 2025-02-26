@@ -1,7 +1,0 @@
-Server: nginx
-Date: Sun, 23 Feb 2025 12:01:01 GMT
-Content-Type: text/html
-Cache-Control: no-store
-Location: https://www.instrument.com.cn/lib/search/?kw=%E6%98%BE%E5%BE%AE%E9%95%9C%E5%B8%82%E5%9C%BA%E6%A6%82%E5%86%B5+%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90
-X-Ws-Request-Id: 67bb0dfd_PS-XIY-019PT40_41494-15881
-Set-Cookie: HMF_CI=6bcf41d1661a94394c13c4255e0a4fa254df75a66a96a81158d5ec2361d5d436478ef4997c786985e5502724554cced2fd136a7e33bbb61c1809729295c4faece0; Expires=Sun, 23-Feb-25 14:01:01 GMT; Path=/

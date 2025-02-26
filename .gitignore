@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+r/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Scrapy
+.scrapy/
+
+# macOS
+.DS_Store
+
+# Project specific
+data/raw/
+output/charts/
+output/market_research_report_*.md
+spiders/

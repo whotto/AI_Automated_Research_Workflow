@@ -1,3 +1,4 @@
+# 基础依赖
 # LangChain相关
 langchain>=0.1.0
 langchain-community>=0.0.10
@@ -13,14 +14,39 @@ numpy>=1.26.4
 
 # 爬虫相关
 scrapy>=2.11.0
-fake-useragent>=1.4.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+aiohttp>=3.9.0
+requests>=2.31.0
+scrapy-fake-useragent>=1.4.4
 
 # 工具包
 python-dotenv>=1.0.0
 pyyaml>=6.0.1
-requests>=2.31.0
 tqdm>=4.66.1
 
 # 类型提示
 typing-extensions>=4.9.0
 pydantic>=2.6.1
+
+# 机器学习功能
+scikit-learn>=1.2.2
+pycaret[full]>=3.2.0
+scipy>=1.11.4
+statsmodels>=0.14.1
+lightgbm>=4.3.0
+optuna>=3.5.0
+plotly>=5.18.0
+dash>=2.14.2
+
+# 系统依赖（需要系统预先安装）
+# Mac: brew install cmake libomp
+# Linux: sudo apt-get install cmake libomp-dev
+# Windows: 通过Visual Studio安装C++构建工具
+
+# 安装说明：
+# 1. 基础功能安装：pip install -r requirements.txt
+# 2. 机器学习功能安装：
+#    a) 取消上面机器学习依赖的注释
+#    b) 安装系统依赖
+#    c) 重新运行：pip install -r requirements.txt

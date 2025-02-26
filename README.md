@@ -1,87 +1,116 @@
-# AI 研究工作流
+# 智研数析 (AI Market Research Assistant)
 
-基于 LangChain + Scrapy + Pandas + PyCaret + Dash 的智能研究工作流系统，用于自动化市场研究和数据分析。
+**版本号：** 1.2.0
 
-## 功能特点
+![市场研究助手](https://via.placeholder.com/800x400/2f81ed/ffffff?text=智研数析)
 
-- 智能需求分析：使用 LangChain 将用户需求转换为结构化研究计划
-- 自动数据采集：基于 Scrapy 的智能爬虫系统
-- 数据处理分析：使用 Pandas 进行数据清洗和特征工程
-- 预测建模：基于 PyCaret 的自动化机器学习建模
-- 可视化展示：使用 Dash 构建交互式数据可视化界面
+## 🔍 简介
 
-## 项目结构
+智研数析是一款强大的市场研究助手，帮助企业、投资者和分析师快速生成专业的行业研究报告。借助 OpenAI 最新的 **gpt-4o-2024-11-20** 模型，智研数析能够收集数据、分析市场趋势并自动生成洞察深刻的研究报告，大幅提升研究效率。
+
+## 🌟 核心功能
+
+- **一键生成完整研究报告**：只需输入行业关键词，即可获得包含市场规模、竞争格局、发展趋势等全方位分析的专业报告
+- **精美数据可视化**：自动生成多种图表（折线图、饼图、雷达图、气泡图等），直观展示市场数据
+- **专业分析框架**：集成波特五力、价值链分析、BCG矩阵等经典商业分析框架
+- **多维度比较表格**：自动创建企业对比表格、五力评分表格和价值链分析表格
+- **针对性建议**：为不同利益相关者（企业、投资者、政策制定者）提供差异化的行动建议
+
+## 📊 应用场景
+
+- **市场调研**：快速了解新市场的规模、结构和增长潜力
+- **竞争分析**：深入分析竞争格局和主要企业的战略定位
+- **投资决策**：为风投、PE和个人投资者提供全面的行业洞察
+- **战略规划**：为企业提供市场趋势和机会点分析，支持战略决策
+- **学术研究**：协助研究人员收集和分析行业数据，提供可靠的市场信息
+
+## 🔄 创作流程概览
 
 ```
-/research_project
-├── config.yaml            # 配置文件
-├── requirements.txt       # 项目依赖
-├── research_workflow.py   # 主程序
-├── spiders/              # Scrapy爬虫目录
-│   └── market_spider.py
-├── data/                 # 数据存储
-│   ├── raw/
-│   └── processed/
-└── dash_app/            # 可视化应用
-    └── app.py
+需求分析 → 数据采集 → 数据处理 → 内容生成 → 可视化创建 → 整合报告
 ```
 
-## 环境配置
+![工作流程图](https://via.placeholder.com/800x200/e9f7fe/333333?text=智研数析工作流)
 
-1. 创建虚拟环境：
+1. **需求分析**：智能解析您的研究需求，确定关键研究维度和数据点
+2. **数据采集**：自动从多个来源收集相关行业数据和市场信息
+3. **数据处理**：清洗和结构化收集到的数据，提取关键指标和趋势
+4. **内容生成**：利用gpt-4o-2024-11-20模型生成专业、深度的分析内容
+5. **可视化创建**：根据数据特点自动选择最合适的图表类型，呈现关键洞察
+6. **整合报告**：将所有内容整合为一份结构完整、逻辑清晰的研究报告
+
+## 🛠️ 使用工具
+
+本项目基于以下先进技术构建：
+
+- [LangChain](https://www.langchain.com/) - AI大型语言模型应用框架
+- [OpenAI API](https://openai.com/) - 提供gpt-4o-2024-11-20等先进AI模型
+- [Pandas](https://pandas.pydata.org/) - 数据分析和处理
+- [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) - 数据可视化
+
+## 📘 使用指南
+
+### 准备工作
+
+1. 准备您的OpenAI API密钥
+2. 安装Python 3.9或更高版本
+3. 安装所需依赖：`pip install -r requirements.txt`
+4. 创建`.env`文件并添加您的API密钥：`OPENAI_API_KEY=your_key_here`
+
+### 开始使用
+
+**方法一：命令行运行（最简单）**
+
 ```bash
-conda create -n research_ai python=3.9
-conda activate research_ai
+python research_workflow.py "您想研究的行业关键词"
+
+# 示例
+python research_workflow.py "电动汽车市场"
 ```
 
-2. 安装依赖：
-```bash
-pip install -r requirements.txt
-```
+**方法二：在Python代码中调用**
 
-3. 配置环境变量：
-创建 `.env` 文件并设置以下变量：
-```
-OPENAI_API_KEY=your_api_key_here
-```
-
-## 使用方法
-
-1. 启动研究工作流：
 ```python
 from research_workflow import ResearchWorkflow
 
+# 创建工作流实例
 workflow = ResearchWorkflow()
-result = workflow.run_pipeline("分析2023年北京新能源汽车市场趋势")
+
+# 运行研究流程并获取结果
+result = workflow.run_pipeline("半导体设备行业分析")
+
+# 查看报告位置
+print(f"报告已生成，保存于: {result['report_file']}")
 ```
 
-2. 访问可视化界面：
-打开浏览器访问 `http://localhost:8050`
+### 报告内容示例
 
-## 自定义配置
+生成的报告通常包含以下内容：
 
-编辑 `config.yaml` 文件以修改：
-- API 配置
-- 爬虫参数
-- 数据处理规则
-- 模型训练参数
-- 可视化设置
+- **专业封面页**：带有报告标题、日期和机构标识
+- **执行摘要**：关键发现和建议的简明概述
+- **市场概况**：市场规模、增长率和主要细分市场
+- **竞争格局**：主要参与者分析和市场份额
+- **波特五力分析**：行业竞争强度评估
+- **价值链分析**：行业价值创造环节分析
+- **发展趋势**：关键技术和市场趋势预测
+- **战略建议**：针对不同利益相关者的行动建议
 
-## 注意事项
+## 🚀 未来计划
 
-1. 确保已安装所有必要的系统依赖
-2. 遵守目标网站的爬虫规则和速率限制
-3. 定期备份重要数据
-4. 监控系统资源使用情况
+- 增加多语言报告生成能力
+- 扩展至更多垂直行业的专业分析
+- 添加实时数据集成和自动更新功能
+- 开发基于历史报告的趋势分析功能
+- 增强与其他商业智能工具的集成能力
 
-## 开发计划
+## 📞 联系我们
 
-- [ ] 添加更多数据源支持
-- [ ] 优化模型训练流程
-- [ ] 增强可视化功能
-- [ ] 添加自动化测试
-- [ ] 改进错误处理机制
+- **博客**：[天天悦读](https://yuedu.biz)
+- **AI 工作流**：[玄清](https://huanwang.org)
+- **Email**：[grow8org@gmail.com](mailto:grow8org@gmail.com)
+- **GitHub**：[https://github.com/whotto/](https://github.com/whotto/)
 
-## 贡献指南
+## 📜 许可证
 
-欢迎提交 Issue 和 Pull Request 来改进项目。
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。

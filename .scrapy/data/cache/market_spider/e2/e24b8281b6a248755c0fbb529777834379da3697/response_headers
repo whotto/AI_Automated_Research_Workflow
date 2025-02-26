@@ -1,7 +1,0 @@
-Server: nginx
-Date: Sun, 23 Feb 2025 10:13:37 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Vary: Accept-Encoding
-Content-Encoding: gzip
-Server-Timing: inner; dur=121, inner; dur=94

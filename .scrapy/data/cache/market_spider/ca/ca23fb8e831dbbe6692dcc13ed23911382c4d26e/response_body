@@ -1,9 +1,0 @@
-# robots.txt
-User-agent: *
-Allow:/
-Disallow: 
-Disallow: /bin/
-Disallow: https://pre1.analysys.cn/
-Disallow: https://boyue2.analysys.cn/
-Sitemap: https://www.analysys.cn/sitemap.xml
-Sitemap: https://www.analysys.cn/sitemap.html

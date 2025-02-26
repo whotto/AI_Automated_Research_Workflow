@@ -1,29 +1,31 @@
-# API配置
-openai:
-  api_key: ${OPENAI_API_KEY}
+# 研究工作流配置文件
 
-# 爬虫配置
-spider:
-  user_agent_type: random
-  max_retries: 3
-  timeout: 30
-  concurrent_requests: 16
-  download_delay: 1
-
-# 数据处理配置
+# 数据相关配置
 data:
   raw_path: "data/raw"
   processed_path: "data/processed"
-  min_content_length: 100
+  min_content_length: 100  # 内容最小长度
 
-# 模型配置
+# 爬虫相关配置
+spider:
+  concurrent_requests: 8
+  download_delay: 1.0
+  timeout: 30
+  retry_times: 3
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+# 模型相关配置
 model:
-  experiment_name: "market_trend"
-  session_id: 123
+  session_id: 101
+  experiment_name: "market_forecast"
   save_path: "models"
+  threshold: 0.8
+  hyperparameter_tuning: true
 
-# Dash应用配置
+# 可视化界面配置
 dash:
   host: "0.0.0.0"
   port: 8050
   debug: true
+  theme: "bootstrap"
+  refresh_interval: 60 
